@@ -1,0 +1,5307 @@
+header {
+gtfs_realtime_version: "2.0" 
+incrementality: FULL_DATASET 
+timestamp: 1749212525153 
+}
+entity { 
+id:"533" 
+  vehicle { 
+    trip { 
+      trip_id: "3_2_37610_1441" 
+      start_time: "14:00:00" 
+      start_date: "20250606" 
+      schedule_relationship: SCHEDULED 
+      route_id: "2_3 " 
+       direction_id: 1
+    }
+    position {
+      latitude: 36.452095 
+      longitude: -6.216692777777778
+    }
+    timestamp: 1749212470
+    vehicle {
+      id: "2_3256"
+    }
+    occupancy_status: MANY_SEATS_AVAILABLE
+  }
+}
+entity { 
+id:"631" 
+  vehicle { 
+    trip { 
+      trip_id: "3_3_77500_1200" 
+      start_time: "14:05:00" 
+      start_date: "20250606" 
+      schedule_relationship: SCHEDULED 
+      route_id: "3_996 " 
+       direction_id: 0
+    }
+    position {
+      latitude: 37.138115 
+      longitude: -3.5891705555555555
+    }
+    timestamp: 1749212471
+    vehicle {
+      id: "3_4358"
+    }
+    occupancy_status: MANY_SEATS_AVAILABLE
+  }
+}
+entity { 
+id:"589" 
+  vehicle { 
+    trip { 
+      trip_id: "3_4_67851_1553" 
+      start_time: "14:00:00" 
+      start_date: "20250606" 
+      schedule_relationship: SCHEDULED 
+      route_id: "4_113 " 
+       direction_id: 0
+    }
+    position {
+      latitude: 36.71873777777778 
+      longitude: -4.415564444444445
+    }
+    timestamp: 1749212484
+    vehicle {
+      id: "4_4146"
+    }
+    occupancy_status: MANY_SEATS_AVAILABLE
+  }
+}
+entity { 
+id:"1055" 
+  vehicle { 
+    trip { 
+      trip_id: "3_1_43932_885" 
+      start_time: "13:55:00" 
+      start_date: "20250606" 
+      schedule_relationship: SCHEDULED 
+      route_id: "1_306 " 
+       direction_id: 1
+    }
+    position {
+      latitude: 37.35848111111111 
+      longitude: -6.035202222222222
+    }
+    timestamp: 1749212502
+    vehicle {
+      id: "1_5212"
+    }
+    occupancy_status: MANY_SEATS_AVAILABLE
+  }
+}
+entity { 
+id:"480" 
+  vehicle { 
+    trip { 
+      trip_id: "3_1_44413_888" 
+      start_time: "14:30:00" 
+      start_date: "20250606" 
+      schedule_relationship: SCHEDULED 
+      route_id: "1_279 " 
+       direction_id: 0
+    }
+    position {
+      latitude: 37.39021527777778 
+      longitude: -6.204319166666667
+    }
+    timestamp: 1749212488
+    vehicle {
+      id: "1_0753"
+    }
+    occupancy_status: MANY_SEATS_AVAILABLE
+  }
+}
+entity { 
+id:"640" 
+  vehicle { 
+    trip { 
+      trip_id: "3_9_39604_97" 
+      start_time: "14:30:00" 
+      start_date: "20250606" 
+      schedule_relationship: SCHEDULED 
+      route_id: "9_32 " 
+       direction_id: 1
+    }
+    position {
+      latitude: 37.265321666666665 
+      longitude: -7.028621388888888
+    }
+    timestamp: 1749212474
+    vehicle {
+      id: "9_0793"
+    }
+    occupancy_status: MANY_SEATS_AVAILABLE
+  }
+}
+entity { 
+id:"1112" 
+  vehicle { 
+    trip { 
+      trip_id: "3_1_48675_985" 
+      start_time: "14:25:00" 
+      start_date: "20250606" 
+      schedule_relationship: SCHEDULED 
+      route_id: "1_288 " 
+       direction_id: 0
+    }
+    position {
+      latitude: 37.43780638888889 
+      longitude: -6.040056111111111
+    }
+    timestamp: 1749212513
+    vehicle {
+      id: "1_0968"
+    }
+    occupancy_status: MANY_SEATS_AVAILABLE
+  }
+}
+entity { 
+id:"701" 
+  vehicle { 
+    trip { 
+      trip_id: "3_2_37550_1441" 
+      start_time: "14:10:00" 
+      start_date: "20250606" 
+      schedule_relationship: SCHEDULED 
+      route_id: "2_2 " 
+       direction_id: 0
+    }
+    position {
+      latitude: 36.517435 
+      longitude: -6.283271666666667
+    }
+    timestamp: 1749212471
+    vehicle {
+      id: "2_3300"
+    }
+    occupancy_status: MANY_SEATS_AVAILABLE
+  }
+}
+entity { 
+id:"600" 
+  vehicle { 
+    trip { 
+      trip_id: "3_1_45394_905" 
+      start_time: "14:00:00" 
+      start_date: "20250606" 
+      schedule_relationship: SCHEDULED 
+      route_id: "1_250 " 
+       direction_id: 1
+    }
+    position {
+      latitude: 37.401385 
+      longitude: -6.043914166666666
+    }
+    timestamp: 1749212470
+    vehicle {
+      id: "1_0842"
+    }
+    occupancy_status: MANY_SEATS_AVAILABLE
+  }
+}
+entity { 
+id:"611" 
+  vehicle { 
+    trip { 
+      trip_id: "3_8_9103_473" 
+      start_time: "12:30:00" 
+      start_date: "20250606" 
+      schedule_relationship: SCHEDULED 
+      route_id: "8_16 " 
+       direction_id: 0
+    }
+    position {
+      latitude: 37.418965 
+      longitude: -4.4826175
+    }
+    timestamp: 1749212500
+    vehicle {
+      id: "8_3061"
+    }
+    occupancy_status: MANY_SEATS_AVAILABLE
+  }
+}
+entity { 
+id:"552" 
+  vehicle { 
+    trip { 
+      trip_id: "3_7_10087_264" 
+      start_time: "14:00:00" 
+      start_date: "20250606" 
+      schedule_relationship: SCHEDULED 
+      route_id: "7_278 " 
+       direction_id: 1
+    }
+    position {
+      latitude: 37.76289277777778 
+      longitude: -3.9407138888888893
+    }
+    timestamp: 1749212659
+    vehicle {
+      id: "7_0474"
+    }
+    occupancy_status: MANY_SEATS_AVAILABLE
+  }
+}
+entity { 
+id:"1087" 
+  vehicle { 
+    trip { 
+      trip_id: "3_1_42754_869" 
+      start_time: "14:00:00" 
+      start_date: "20250606" 
+      schedule_relationship: SCHEDULED 
+      route_id: "1_208 " 
+       direction_id: 0
+    }
+    position {
+      latitude: 37.45305416666667 
+      longitude: -5.975968888888889
+    }
+    timestamp: 1749212674
+    vehicle {
+      id: "1_5116"
+    }
+    occupancy_status: MANY_SEATS_AVAILABLE
+  }
+}
+entity { 
+id:"597" 
+  vehicle { 
+    trip { 
+      trip_id: "3_5_3450_96" 
+      start_time: "14:30:00" 
+      start_date: "20250606" 
+      schedule_relationship: SCHEDULED 
+      route_id: "5_4 " 
+       direction_id: 0
+    }
+    position {
+      latitude: 36.126036666666664 
+      longitude: -5.447536944444445
+    }
+    timestamp: 1749212481
+    vehicle {
+      id: "5_3339"
+    }
+    occupancy_status: MANY_SEATS_AVAILABLE
+  }
+}
+entity { 
+id:"585" 
+  vehicle { 
+    trip { 
+      trip_id: "3_6_3829_38" 
+      start_time: "13:45:00" 
+      start_date: "20250606" 
+      schedule_relationship: SCHEDULED 
+      route_id: "6_19 " 
+       direction_id: 0
+    }
+    position {
+      latitude: 36.76788305555556 
+      longitude: -2.6152555555555557
+    }
+    timestamp: 1749212481
+    vehicle {
+      id: "6_4069"
+    }
+    occupancy_status: MANY_SEATS_AVAILABLE
+  }
+}
+entity { 
+id:"570" 
+  vehicle { 
+    trip { 
+      trip_id: "3_9_39769_97" 
+      start_time: "14:00:00" 
+      start_date: "20250606" 
+      schedule_relationship: SCHEDULED 
+      route_id: "9_8 " 
+       direction_id: 0
+    }
+    position {
+      latitude: 37.31772916666667 
+      longitude: -7.081625
+    }
+    timestamp: 1749212467
+    vehicle {
+      id: "9_0921"
+    }
+    occupancy_status: MANY_SEATS_AVAILABLE
+  }
+}
+entity { 
+id:"471" 
+  vehicle { 
+    trip { 
+      trip_id: "3_5_3448_96" 
+      start_time: "14:00:00" 
+      start_date: "20250606" 
+      schedule_relationship: SCHEDULED 
+      route_id: "5_4 " 
+       direction_id: 0
+    }
+    position {
+      latitude: 36.151070555555556 
+      longitude: -5.454660277777778
+    }
+    timestamp: 1749212484
+    vehicle {
+      id: "5_3318"
+    }
+    occupancy_status: MANY_SEATS_AVAILABLE
+  }
+}
+entity { 
+id:"560" 
+  vehicle { 
+    trip { 
+      trip_id: "3_2_40652_1466" 
+      start_time: "14:20:00" 
+      start_date: "20250606" 
+      schedule_relationship: SCHEDULED 
+      route_id: "2_9 " 
+       direction_id: 0
+    }
+    position {
+      latitude: 36.53529833333333 
+      longitude: -6.291934166666667
+    }
+    timestamp: 1749212482
+    vehicle {
+      id: "2_3277"
+    }
+    occupancy_status: MANY_SEATS_AVAILABLE
+  }
+}
+entity { 
+id:"62" 
+  vehicle { 
+    trip { 
+      trip_id: "3_1_13718_181" 
+      start_time: "14:00:00" 
+      start_date: "20250606" 
+      schedule_relationship: SCHEDULED 
+      route_id: "1_277 " 
+       direction_id: 1
+    }
+    position {
+      latitude: 37.38610833333333 
+      longitude: -6.060706944444444
+    }
+    timestamp: 1749212450
+    vehicle {
+      id: "1_0791"
+    }
+    occupancy_status: MANY_SEATS_AVAILABLE
+  }
+}
+entity { 
+id:"965" 
+  vehicle { 
+    trip { 
+      trip_id: "3_1_51188_981" 
+      start_time: "14:15:00" 
+      start_date: "20250606" 
+      schedule_relationship: SCHEDULED 
+      route_id: "1_446 " 
+       direction_id: 0
+    }
+    position {
+      latitude: 37.31041805555555 
+      longitude: -6.102536944444444
+    }
+    timestamp: 1749212507
+    vehicle {
+      id: "1_5226"
+    }
+    occupancy_status: MANY_SEATS_AVAILABLE
+  }
+}
+entity { 
+id:"676" 
+  vehicle { 
+    trip { 
+      trip_id: "3_5_3590_96" 
+      start_time: "14:00:00" 
+      start_date: "20250606" 
+      schedule_relationship: SCHEDULED 
+      route_id: "5_7 " 
+       direction_id: 0
+    }
+    position {
+      latitude: 36.05831388888888 
+      longitude: -5.542271944444444
+    }
+    timestamp: 1749212468
+    vehicle {
+      id: "5_3324"
+    }
+    occupancy_status: MANY_SEATS_AVAILABLE
+  }
+}
+entity { 
+id:"595" 
+  vehicle { 
+    trip { 
+      trip_id: "3_6_3671_53" 
+      start_time: "14:00:00" 
+      start_date: "20250606" 
+      schedule_relationship: SCHEDULED 
+      route_id: "6_17 " 
+       direction_id: 0
+    }
+    position {
+      latitude: 36.81701 
+      longitude: -2.5620766666666666
+    }
+    timestamp: 1749212468
+    vehicle {
+      id: "6_4052"
+    }
+    occupancy_status: MANY_SEATS_AVAILABLE
+  }
+}
+entity { 
+id:"665" 
+  vehicle { 
+    trip { 
+      trip_id: "3_3_61995_961" 
+      start_time: "14:15:00" 
+      start_date: "20250606" 
+      schedule_relationship: SCHEDULED 
+      route_id: "3_1056 " 
+       direction_id: 1
+    }
+    position {
+      latitude: 37.1582425 
+      longitude: -3.4438280555555556
+    }
+    timestamp: 1749212721
+    vehicle {
+      id: "3_7036"
+    }
+    occupancy_status: MANY_SEATS_AVAILABLE
+  }
+}
+entity { 
+id:"668" 
+  vehicle { 
+    trip { 
+      trip_id: "3_6_3343_61" 
+      start_time: "14:00:00" 
+      start_date: "20250606" 
+      schedule_relationship: SCHEDULED 
+      route_id: "6_40 " 
+       direction_id: 0
+    }
+    position {
+      latitude: 36.80452222222222 
+      longitude: -2.673853333333333
+    }
+    timestamp: 1749212473
+    vehicle {
+      id: "6_4060"
+    }
+    occupancy_status: MANY_SEATS_AVAILABLE
+  }
+}
+entity { 
+id:"591" 
+  vehicle { 
+    trip { 
+      trip_id: "3_3_80720_1255" 
+      start_time: "12:30:00" 
+      start_date: "20250606" 
+      schedule_relationship: SCHEDULED 
+      route_id: "3_1112 " 
+       direction_id: 1
+    }
+    position {
+      latitude: 37.17161 
+      longitude: -3.5984036111111113
+    }
+    timestamp: 1749212484
+    vehicle {
+      id: "3_4077"
+    }
+    occupancy_status: MANY_SEATS_AVAILABLE
+  }
+}
+entity { 
+id:"613" 
+  vehicle { 
+    trip { 
+      trip_id: "3_6_3671_53" 
+      start_time: "14:15:00" 
+      start_date: "20250606" 
+      schedule_relationship: SCHEDULED 
+      route_id: "6_17 " 
+       direction_id: 0
+    }
+    position {
+      latitude: 36.83412916666667 
+      longitude: -2.4634850000000004
+    }
+    timestamp: 1749212471
+    vehicle {
+      id: "6_4443"
+    }
+    occupancy_status: MANY_SEATS_AVAILABLE
+  }
+}
+entity { 
+id:"693" 
+  vehicle { 
+    trip { 
+      trip_id: "3_1_20826_315" 
+      start_time: "14:15:00" 
+      start_date: "20250606" 
+      schedule_relationship: SCHEDULED 
+      route_id: "1_264 " 
+       direction_id: 1
+    }
+    position {
+      latitude: 37.37449194444444 
+      longitude: -6.027190555555555
+    }
+    timestamp: 1749212474
+    vehicle {
+      id: "1_0835"
+    }
+    occupancy_status: MANY_SEATS_AVAILABLE
+  }
+}
+entity { 
+id:"1123" 
+  vehicle { 
+    trip { 
+      trip_id: "3_1_51203_747" 
+      start_time: "13:45:00" 
+      start_date: "20250606" 
+      schedule_relationship: SCHEDULED 
+      route_id: "1_300 " 
+       direction_id: 0
+    }
+    position {
+      latitude: 37.34399888888889 
+      longitude: -6.025353055555556
+    }
+    timestamp: 1749212519
+    vehicle {
+      id: "1_5209"
+    }
+    occupancy_status: MANY_SEATS_AVAILABLE
+  }
+}
+entity { 
+id:"633" 
+  vehicle { 
+    trip { 
+      trip_id: "3_1_43890_878" 
+      start_time: "14:00:00" 
+      start_date: "20250606" 
+      schedule_relationship: SCHEDULED 
+      route_id: "1_422 " 
+       direction_id: 1
+    }
+    position {
+      latitude: 37.417725555555556 
+      longitude: -6.036624166666667
+    }
+    timestamp: 1749212596
+    vehicle {
+      id: "1_5059"
+    }
+    occupancy_status: MANY_SEATS_AVAILABLE
+  }
+}
+entity { 
+id:"191" 
+  vehicle { 
+    trip { 
+      trip_id: "3_3_74266_1207" 
+      start_time: "14:00:00" 
+      start_date: "20250606" 
+      schedule_relationship: SCHEDULED 
+      route_id: "3_932 " 
+       direction_id: 1
+    }
+    position {
+      latitude: 37.152615 
+      longitude: -3.581735833333333
+    }
+    timestamp: 1749212402
+    vehicle {
+      id: "3_7024"
+    }
+    occupancy_status: MANY_SEATS_AVAILABLE
+  }
+}
+entity { 
+id:"639" 
+  vehicle { 
+    trip { 
+      trip_id: "3_1_49599_1015" 
+      start_time: "14:00:00" 
+      start_date: "20250606" 
+      schedule_relationship: SCHEDULED 
+      route_id: "1_275 " 
+       direction_id: 1
+    }
+    position {
+      latitude: 37.369038055555556 
+      longitude: -6.0787313888888885
+    }
+    timestamp: 1749212474
+    vehicle {
+      id: "1_0896"
+    }
+    occupancy_status: MANY_SEATS_AVAILABLE
+  }
+}
+entity { 
+id:"621" 
+  vehicle { 
+    trip { 
+      trip_id: "3_1_51926_888" 
+      start_time: "15:10:00" 
+      start_date: "20250606" 
+      schedule_relationship: SCHEDULED 
+      route_id: "1_286 " 
+       direction_id: 1
+    }
+    position {
+      latitude: 37.37775277777778 
+      longitude: -6.032517222222222
+    }
+    timestamp: 1749212486
+    vehicle {
+      id: "1_0765"
+    }
+    occupancy_status: MANY_SEATS_AVAILABLE
+  }
+}
+entity { 
+id:"772" 
+  vehicle { 
+    trip { 
+      trip_id: "3_7_7462_220" 
+      start_time: "14:00:00" 
+      start_date: "20250606" 
+      schedule_relationship: SCHEDULED 
+      route_id: "7_176 " 
+       direction_id: 0
+    }
+    position {
+      latitude: 37.834991111111115 
+      longitude: -3.7670838888888887
+    }
+    timestamp: 1749212574
+    vehicle {
+      id: "7_5168"
+    }
+    occupancy_status: MANY_SEATS_AVAILABLE
+  }
+}
+entity { 
+id:"652" 
+  vehicle { 
+    trip { 
+      trip_id: "3_2_32589_1465" 
+      start_time: "13:40:00" 
+      start_date: "20250606" 
+      schedule_relationship: SCHEDULED 
+      route_id: "2_6 " 
+       direction_id: 0
+    }
+    position {
+      latitude: 36.52867388888889 
+      longitude: -6.190274166666667
+    }
+    timestamp: 1749212493
+    vehicle {
+      id: "2_3269"
+    }
+    occupancy_status: MANY_SEATS_AVAILABLE
+  }
+}
+entity { 
+id:"1119" 
+  vehicle { 
+    trip { 
+      trip_id: "3_2_39959_1408" 
+      start_time: "13:48:00" 
+      start_date: "20250606" 
+      schedule_relationship: SCHEDULED 
+      route_id: "2_7 " 
+       direction_id: 1
+    }
+    position {
+      latitude: 36.467711388888894 
+      longitude: -6.19045
+    }
+    timestamp: 1749212509
+    vehicle {
+      id: "2_2006"
+    }
+    occupancy_status: MANY_SEATS_AVAILABLE
+  }
+}
+entity { 
+id:"691" 
+  vehicle { 
+    trip { 
+      trip_id: "3_9_39626_97" 
+      start_time: "14:00:00" 
+      start_date: "20250606" 
+      schedule_relationship: SCHEDULED 
+      route_id: "9_34 " 
+       direction_id: 0
+    }
+    position {
+      latitude: 37.26117861111111 
+      longitude: -7.0109288888888885
+    }
+    timestamp: 1749212470
+    vehicle {
+      id: "9_0863"
+    }
+    occupancy_status: MANY_SEATS_AVAILABLE
+  }
+}
+entity { 
+id:"577" 
+  vehicle { 
+    trip { 
+      trip_id: "3_6_3372_37" 
+      start_time: "14:20:00" 
+      start_date: "20250606" 
+      schedule_relationship: SCHEDULED 
+      route_id: "6_49 " 
+       direction_id: 0
+    }
+    position {
+      latitude: 36.81548944444444 
+      longitude: -2.569358611111111
+    }
+    timestamp: 1749212486
+    vehicle {
+      id: "6_4025"
+    }
+    occupancy_status: MANY_SEATS_AVAILABLE
+  }
+}
+entity { 
+id:"602" 
+  vehicle { 
+    trip { 
+      trip_id: "3_7_10133_264" 
+      start_time: "14:00:00" 
+      start_date: "20250606" 
+      schedule_relationship: SCHEDULED 
+      route_id: "7_285 " 
+       direction_id: 0
+    }
+    position {
+      latitude: 37.77535944444444 
+      longitude: -3.8929008333333335
+    }
+    timestamp: 1749212591
+    vehicle {
+      id: "7_0481"
+    }
+    occupancy_status: MANY_SEATS_AVAILABLE
+  }
+}
+entity { 
+id:"643" 
+  vehicle { 
+    trip { 
+      trip_id: "3_3_73166_1105" 
+      start_time: "14:10:00" 
+      start_date: "20250606" 
+      schedule_relationship: SCHEDULED 
+      route_id: "3_639 " 
+       direction_id: 1
+    }
+    position {
+      latitude: 37.213094444444444 
+      longitude: -3.5929333333333333
+    }
+    timestamp: 1749212498
+    vehicle {
+      id: "3_2690"
+    }
+    occupancy_status: MANY_SEATS_AVAILABLE
+  }
+}
+entity { 
+id:"753" 
+  vehicle { 
+    trip { 
+      trip_id: "3_5_3482_96" 
+      start_time: "14:00:00" 
+      start_date: "20250606" 
+      schedule_relationship: SCHEDULED 
+      route_id: "5_4 " 
+       direction_id: 1
+    }
+    position {
+      latitude: 36.20735555555556 
+      longitude: -5.392427777777778
+    }
+    timestamp: 1749212471
+    vehicle {
+      id: "5_3336"
+    }
+    occupancy_status: MANY_SEATS_AVAILABLE
+  }
+}
+entity { 
+id:"946" 
+  vehicle { 
+    trip { 
+      trip_id: "3_2_37591_1441" 
+      start_time: "14:17:00" 
+      start_date: "20250606" 
+      schedule_relationship: SCHEDULED 
+      route_id: "2_3 " 
+       direction_id: 0
+    }
+    position {
+      latitude: 37.51298277777778 
+      longitude: -64.53437583333333
+    }
+    timestamp: 1749212514
+    vehicle {
+      id: "2_5013"
+    }
+    occupancy_status: MANY_SEATS_AVAILABLE
+  }
+}
+entity { 
+id:"711" 
+  vehicle { 
+    trip { 
+      trip_id: "3_1_13729_181" 
+      start_time: "13:45:00" 
+      start_date: "20250606" 
+      schedule_relationship: SCHEDULED 
+      route_id: "1_277 " 
+       direction_id: 0
+    }
+    position {
+      latitude: 37.38847527777778 
+      longitude: -6.042124722222222
+    }
+    timestamp: 1749212470
+    vehicle {
+      id: "1_0762"
+    }
+    occupancy_status: MANY_SEATS_AVAILABLE
+  }
+}
+entity { 
+id:"578" 
+  vehicle { 
+    trip { 
+      trip_id: "3_7_7438_220" 
+      start_time: "14:00:00" 
+      start_date: "20250606" 
+      schedule_relationship: SCHEDULED 
+      route_id: "7_49 " 
+       direction_id: 0
+    }
+    position {
+      latitude: 37.771143888888886 
+      longitude: -3.711491388888889
+    }
+    timestamp: 1749212543
+    vehicle {
+      id: "7_5170"
+    }
+    occupancy_status: MANY_SEATS_AVAILABLE
+  }
+}
+entity { 
+id:"883" 
+  vehicle { 
+    trip { 
+      trip_id: "3_1_44421_888" 
+      start_time: "14:00:00" 
+      start_date: "20250606" 
+      schedule_relationship: SCHEDULED 
+      route_id: "1_283 " 
+       direction_id: 1
+    }
+    position {
+      latitude: 37.38357027777778 
+      longitude: -6.087554166666666
+    }
+    timestamp: 1749212474
+    vehicle {
+      id: "1_0935"
+    }
+    occupancy_status: MANY_SEATS_AVAILABLE
+  }
+}
+entity { 
+id:"744" 
+  vehicle { 
+    trip { 
+      trip_id: "3_7_10112_264" 
+      start_time: "14:00:00" 
+      start_date: "20250606" 
+      schedule_relationship: SCHEDULED 
+      route_id: "7_281 " 
+       direction_id: 0
+    }
+    position {
+      latitude: 37.803684999999994 
+      longitude: -3.816003611111111
+    }
+    timestamp: 1749212560
+    vehicle {
+      id: "7_0476"
+    }
+    occupancy_status: MANY_SEATS_AVAILABLE
+  }
+}
+entity { 
+id:"849" 
+  vehicle { 
+    trip { 
+      trip_id: "3_1_52013_982" 
+      start_time: "14:25:00" 
+      start_date: "20250606" 
+      schedule_relationship: SCHEDULED 
+      route_id: "1_299 " 
+       direction_id: 1
+    }
+    position {
+      latitude: 37.37909416666667 
+      longitude: -5.999515555555556
+    }
+    timestamp: 1749212496
+    vehicle {
+      id: "1_5206"
+    }
+    occupancy_status: MANY_SEATS_AVAILABLE
+  }
+}
+entity { 
+id:"1098" 
+  vehicle { 
+    trip { 
+      trip_id: "3_1_52011_982" 
+      start_time: "13:35:00" 
+      start_date: "20250606" 
+      schedule_relationship: SCHEDULED 
+      route_id: "1_299 " 
+       direction_id: 1
+    }
+    position {
+      latitude: 37.299928611111106 
+      longitude: -6.047137222222222
+    }
+    timestamp: 1749212517
+    vehicle {
+      id: "1_5221"
+    }
+    occupancy_status: MANY_SEATS_AVAILABLE
+  }
+}
+entity { 
+id:"677" 
+  vehicle { 
+    trip { 
+      trip_id: "3_1_50242_129" 
+      start_time: "14:00:00" 
+      start_date: "20250606" 
+      schedule_relationship: SCHEDULED 
+      route_id: "1_263 " 
+       direction_id: 0
+    }
+    position {
+      latitude: 37.379625 
+      longitude: -6.051478888888889
+    }
+    timestamp: 1749212486
+    vehicle {
+      id: "1_0755"
+    }
+    occupancy_status: MANY_SEATS_AVAILABLE
+  }
+}
+entity { 
+id:"811" 
+  vehicle { 
+    trip { 
+      trip_id: "3_1_26293_631" 
+      start_time: "14:00:00" 
+      start_date: "20250606" 
+      schedule_relationship: SCHEDULED 
+      route_id: "1_239 " 
+       direction_id: 0
+    }
+    position {
+      latitude: 37.29174361111111 
+      longitude: -5.928160833333334
+    }
+    timestamp: 1749212473
+    vehicle {
+      id: "1_0761"
+    }
+    occupancy_status: MANY_SEATS_AVAILABLE
+  }
+}
+entity { 
+id:"672" 
+  vehicle { 
+    trip { 
+      trip_id: "3_5_3447_96" 
+      start_time: "13:30:00" 
+      start_date: "20250606" 
+      schedule_relationship: SCHEDULED 
+      route_id: "5_4 " 
+       direction_id: 0
+    }
+    position {
+      latitude: 36.15846638888889 
+      longitude: -5.3535538888888885
+    }
+    timestamp: 1749212475
+    vehicle {
+      id: "5_3330"
+    }
+    occupancy_status: MANY_SEATS_AVAILABLE
+  }
+}
+entity { 
+id:"653" 
+  vehicle { 
+    trip { 
+      trip_id: "3_2_37581_1441" 
+      start_time: "14:10:00" 
+      start_date: "20250606" 
+      schedule_relationship: SCHEDULED 
+      route_id: "2_2 " 
+       direction_id: 1
+    }
+    position {
+      latitude: 36.47828805555556 
+      longitude: -6.195304722222223
+    }
+    timestamp: 1749212479
+    vehicle {
+      id: "2_3289"
+    }
+    occupancy_status: MANY_SEATS_AVAILABLE
+  }
+}
+entity { 
+id:"803" 
+  vehicle { 
+    trip { 
+      trip_id: "3_9_39661_97" 
+      start_time: "13:00:00" 
+      start_date: "20250606" 
+      schedule_relationship: SCHEDULED 
+      route_id: "9_6 " 
+       direction_id: 0
+    }
+    position {
+      latitude: 37.22678361111112 
+      longitude: -7.403033611111112
+    }
+    timestamp: 1749212475
+    vehicle {
+      id: "9_0800"
+    }
+    occupancy_status: MANY_SEATS_AVAILABLE
+  }
+}
+entity { 
+id:"1014" 
+  vehicle { 
+    trip { 
+      trip_id: "3_1_43987_885" 
+      start_time: "14:20:00" 
+      start_date: "20250606" 
+      schedule_relationship: SCHEDULED 
+      route_id: "1_308 " 
+       direction_id: 1
+    }
+    position {
+      latitude: 37.37618305555556 
+      longitude: -5.992078333333334
+    }
+    timestamp: 1749212510
+    vehicle {
+      id: "1_5224"
+    }
+    occupancy_status: MANY_SEATS_AVAILABLE
+  }
+}
+entity { 
+id:"1114" 
+  vehicle { 
+    trip { 
+      trip_id: "3_1_50099_290" 
+      start_time: "14:15:00" 
+      start_date: "20250606" 
+      schedule_relationship: SCHEDULED 
+      route_id: "1_475 " 
+       direction_id: 0
+    }
+    position {
+      latitude: 37.39023638888889 
+      longitude: -6.010169722222222
+    }
+    timestamp: 1749212493
+    vehicle {
+      id: "1_5222"
+    }
+    occupancy_status: MANY_SEATS_AVAILABLE
+  }
+}
+entity { 
+id:"861" 
+  vehicle { 
+    trip { 
+      trip_id: "3_1_48652_985" 
+      start_time: "14:00:00" 
+      start_date: "20250606" 
+      schedule_relationship: SCHEDULED 
+      route_id: "1_287 " 
+       direction_id: 0
+    }
+    position {
+      latitude: 37.399953333333336 
+      longitude: -6.034584166666667
+    }
+    timestamp: 1749212479
+    vehicle {
+      id: "1_5029"
+    }
+    occupancy_status: MANY_SEATS_AVAILABLE
+  }
+}
+entity { 
+id:"694" 
+  vehicle { 
+    trip { 
+      trip_id: "3_1_48620_985" 
+      start_time: "13:45:00" 
+      start_date: "20250606" 
+      schedule_relationship: SCHEDULED 
+      route_id: "1_287 " 
+       direction_id: 1
+    }
+    position {
+      latitude: 37.43814194444444 
+      longitude: -6.040269166666667
+    }
+    timestamp: 1749212480
+    vehicle {
+      id: "1_0919"
+    }
+    occupancy_status: MANY_SEATS_AVAILABLE
+  }
+}
+entity { 
+id:"690" 
+  vehicle { 
+    trip { 
+      trip_id: "3_8_30_474" 
+      start_time: "13:25:00" 
+      start_date: "20250606" 
+      schedule_relationship: SCHEDULED 
+      route_id: "8_14 " 
+       direction_id: 0
+    }
+    position {
+      latitude: 37.700851944444445 
+      longitude: -4.864399722222222
+    }
+    timestamp: 1749212532
+    vehicle {
+      id: "8_3505"
+    }
+    occupancy_status: MANY_SEATS_AVAILABLE
+  }
+}
+entity { 
+id:"945" 
+  vehicle { 
+    trip { 
+      trip_id: "3_1_51971_982" 
+      start_time: "13:50:00" 
+      start_date: "20250606" 
+      schedule_relationship: SCHEDULED 
+      route_id: "1_299 " 
+       direction_id: 0
+    }
+    position {
+      latitude: 37.35504138888889 
+      longitude: -6.026141666666667
+    }
+    timestamp: 1749212500
+    vehicle {
+      id: "1_5227"
+    }
+    occupancy_status: MANY_SEATS_AVAILABLE
+  }
+}
+entity { 
+id:"684" 
+  vehicle { 
+    trip { 
+      trip_id: "3_2_40589_1436" 
+      start_time: "14:30:00" 
+      start_date: "20250606" 
+      schedule_relationship: SCHEDULED 
+      route_id: "2_50 " 
+       direction_id: 1
+    }
+    position {
+      latitude: 36.65848638888889 
+      longitude: -5.654589166666667
+    }
+    timestamp: 1749212485
+    vehicle {
+      id: "2_0796"
+    }
+    occupancy_status: MANY_SEATS_AVAILABLE
+  }
+}
+entity { 
+id:"781" 
+  vehicle { 
+    trip { 
+      trip_id: "3_1_26410_851" 
+      start_time: "14:15:00" 
+      start_date: "20250606" 
+      schedule_relationship: SCHEDULED 
+      route_id: "1_242 " 
+       direction_id: 1
+    }
+    position {
+      latitude: 37.29140361111111 
+      longitude: -5.946096111111111
+    }
+    timestamp: 1749212476
+    vehicle {
+      id: "1_0760"
+    }
+    occupancy_status: MANY_SEATS_AVAILABLE
+  }
+}
+entity { 
+id:"603" 
+  vehicle { 
+    trip { 
+      trip_id: "3_6_3865_55" 
+      start_time: "14:15:00" 
+      start_date: "20250606" 
+      schedule_relationship: SCHEDULED 
+      route_id: "6_22 " 
+       direction_id: 1
+    }
+    position {
+      latitude: 36.75338444444444 
+      longitude: -2.8051375
+    }
+    timestamp: 1749212486
+    vehicle {
+      id: "6_4064"
+    }
+    occupancy_status: MANY_SEATS_AVAILABLE
+  }
+}
+entity { 
+id:"937" 
+  vehicle { 
+    trip { 
+      trip_id: "3_1_51245_981" 
+      start_time: "13:30:00" 
+      start_date: "20250606" 
+      schedule_relationship: SCHEDULED 
+      route_id: "1_301 " 
+       direction_id: 0
+    }
+    position {
+      latitude: 37.387524444444445 
+      longitude: -6.030240555555555
+    }
+    timestamp: 1749212506
+    vehicle {
+      id: "1_5208"
+    }
+    occupancy_status: MANY_SEATS_AVAILABLE
+  }
+}
+entity { 
+id:"1076" 
+  vehicle { 
+    trip { 
+      trip_id: "3_1_51231_981" 
+      start_time: "13:40:00" 
+      start_date: "20250606" 
+      schedule_relationship: SCHEDULED 
+      route_id: "1_301 " 
+       direction_id: 1
+    }
+    position {
+      latitude: 37.33931861111111 
+      longitude: -6.062976388888889
+    }
+    timestamp: 1749212513
+    vehicle {
+      id: "1_5201"
+    }
+    occupancy_status: MANY_SEATS_AVAILABLE
+  }
+}
+entity { 
+id:"1065" 
+  vehicle { 
+    trip { 
+      trip_id: "3_1_51973_982" 
+      start_time: "14:10:00" 
+      start_date: "20250606" 
+      schedule_relationship: SCHEDULED 
+      route_id: "1_299 " 
+       direction_id: 0
+    }
+    position {
+      latitude: 37.27619583333333 
+      longitude: -6.0602761111111105
+    }
+    timestamp: 1749212508
+    vehicle {
+      id: "1_5215"
+    }
+    occupancy_status: MANY_SEATS_AVAILABLE
+  }
+}
+entity { 
+id:"794" 
+  vehicle { 
+    trip { 
+      trip_id: "3_1_49192_988" 
+      start_time: "14:15:00" 
+      start_date: "20250606" 
+      schedule_relationship: SCHEDULED 
+      route_id: "1_542 " 
+       direction_id: 1
+    }
+    position {
+      latitude: 37.349405000000004 
+      longitude: -6.051950833333333
+    }
+    timestamp: 1749212475
+    vehicle {
+      id: "1_0808"
+    }
+    occupancy_status: MANY_SEATS_AVAILABLE
+  }
+}
+entity { 
+id:"751" 
+  vehicle { 
+    trip { 
+      trip_id: "3_1_48880_987" 
+      start_time: "14:00:00" 
+      start_date: "20250606" 
+      schedule_relationship: SCHEDULED 
+      route_id: "1_496 " 
+       direction_id: 0
+    }
+    position {
+      latitude: 37.372997777777776 
+      longitude: -6.035076111111111
+    }
+    timestamp: 1749212485
+    vehicle {
+      id: "1_0946"
+    }
+    occupancy_status: MANY_SEATS_AVAILABLE
+  }
+}
+entity { 
+id:"151" 
+  vehicle { 
+    trip { 
+      trip_id: "3_7_10183_265" 
+      start_time: "14:00:00" 
+      start_date: "20250606" 
+      schedule_relationship: SCHEDULED 
+      route_id: "7_62 " 
+       direction_id: 0
+    }
+    position {
+      latitude: 37.80514055555555 
+      longitude: -3.8107116666666663
+    }
+    timestamp: 1749212541
+    vehicle {
+      id: "7_0448"
+    }
+    occupancy_status: MANY_SEATS_AVAILABLE
+  }
+}
+entity { 
+id:"985" 
+  vehicle { 
+    trip { 
+      trip_id: "3_1_52012_982" 
+      start_time: "13:50:00" 
+      start_date: "20250606" 
+      schedule_relationship: SCHEDULED 
+      route_id: "1_299 " 
+       direction_id: 1
+    }
+    position {
+      latitude: 37.29733361111111 
+      longitude: -6.0522277777777775
+    }
+    timestamp: 1749212507
+    vehicle {
+      id: "1_5211"
+    }
+    occupancy_status: MANY_SEATS_AVAILABLE
+  }
+}
+entity { 
+id:"747" 
+  vehicle { 
+    trip { 
+      trip_id: "3_3_79031_1229" 
+      start_time: "14:20:00" 
+      start_date: "20250606" 
+      schedule_relationship: SCHEDULED 
+      route_id: "3_1099 " 
+       direction_id: 1
+    }
+    position {
+      latitude: 37.240862222222226 
+      longitude: -3.6421083333333333
+    }
+    timestamp: 1749212489
+    vehicle {
+      id: "3_4349"
+    }
+    occupancy_status: MANY_SEATS_AVAILABLE
+  }
+}
+entity { 
+id:"868" 
+  vehicle { 
+    trip { 
+      trip_id: "3_1_13280_646" 
+      start_time: "13:45:00" 
+      start_date: "20250606" 
+      schedule_relationship: SCHEDULED 
+      route_id: "1_259 " 
+       direction_id: 0
+    }
+    position {
+      latitude: 37.36009444444445 
+      longitude: -6.031640833333333
+    }
+    timestamp: 1749212503
+    vehicle {
+      id: "1_5204"
+    }
+    occupancy_status: MANY_SEATS_AVAILABLE
+  }
+}
+entity { 
+id:"700" 
+  vehicle { 
+    trip { 
+      trip_id: "3_1_50330_107" 
+      start_time: "13:30:00" 
+      start_date: "20250606" 
+      schedule_relationship: SCHEDULED 
+      route_id: "1_268 " 
+       direction_id: 0
+    }
+    position {
+      latitude: 37.39133694444445 
+      longitude: -6.003866388888889
+    }
+    timestamp: 1749212487
+    vehicle {
+      id: "1_0934"
+    }
+    occupancy_status: MANY_SEATS_AVAILABLE
+  }
+}
+entity { 
+id:"980" 
+  vehicle { 
+    trip { 
+      trip_id: "3_1_52012_982" 
+      start_time: "14:05:00" 
+      start_date: "20250606" 
+      schedule_relationship: SCHEDULED 
+      route_id: "1_299 " 
+       direction_id: 1
+    }
+    position {
+      latitude: 37.37461833333333 
+      longitude: -6.015750555555556
+    }
+    timestamp: 1749212506
+    vehicle {
+      id: "1_5205"
+    }
+    occupancy_status: MANY_SEATS_AVAILABLE
+  }
+}
+entity { 
+id:"935" 
+  vehicle { 
+    trip { 
+      trip_id: "3_1_44062_885" 
+      start_time: "13:35:00" 
+      start_date: "20250606" 
+      schedule_relationship: SCHEDULED 
+      route_id: "1_314 " 
+       direction_id: 1
+    }
+    position {
+      latitude: 37.353564166666665 
+      longitude: -6.0363991666666665
+    }
+    timestamp: 1749212459
+    vehicle {
+      id: "1_5228"
+    }
+    occupancy_status: MANY_SEATS_AVAILABLE
+  }
+}
+entity { 
+id:"928" 
+  vehicle { 
+    trip { 
+      trip_id: "3_1_44079_885" 
+      start_time: "13:45:00" 
+      start_date: "20250606" 
+      schedule_relationship: SCHEDULED 
+      route_id: "1_314 " 
+       direction_id: 0
+    }
+    position {
+      latitude: 37.35098277777778 
+      longitude: -6.037657222222222
+    }
+    timestamp: 1749212490
+    vehicle {
+      id: "1_5225"
+    }
+    occupancy_status: MANY_SEATS_AVAILABLE
+  }
+}
+entity { 
+id:"829" 
+  vehicle { 
+    trip { 
+      trip_id: "3_1_42916_869" 
+      start_time: "13:30:00" 
+      start_date: "20250606" 
+      schedule_relationship: SCHEDULED 
+      route_id: "1_217 " 
+       direction_id: 1
+    }
+    position {
+      latitude: 37.38177777777778 
+      longitude: -5.729501388888889
+    }
+    timestamp: 1749212449
+    vehicle {
+      id: "1_5139"
+    }
+    occupancy_status: MANY_SEATS_AVAILABLE
+  }
+}
+entity { 
+id:"649" 
+  vehicle { 
+    trip { 
+      trip_id: "3_6_3745_38" 
+      start_time: "13:45:00" 
+      start_date: "20250606" 
+      schedule_relationship: SCHEDULED 
+      route_id: "6_19 " 
+       direction_id: 1
+    }
+    position {
+      latitude: 36.76791472222222 
+      longitude: -2.613919166666667
+    }
+    timestamp: 1749212483
+    vehicle {
+      id: "6_4027"
+    }
+    occupancy_status: MANY_SEATS_AVAILABLE
+  }
+}
+entity { 
+id:"630" 
+  vehicle { 
+    trip { 
+      trip_id: "3_3_69239_1206" 
+      start_time: "14:20:00" 
+      start_date: "20250606" 
+      schedule_relationship: SCHEDULED 
+      route_id: "3_1077 " 
+       direction_id: 0
+    }
+    position {
+      latitude: 37.18563944444444 
+      longitude: -3.607009722222222
+    }
+    timestamp: 1749212493
+    vehicle {
+      id: "3_4360"
+    }
+    occupancy_status: MANY_SEATS_AVAILABLE
+  }
+}
+entity { 
+id:"806" 
+  vehicle { 
+    trip { 
+      trip_id: "3_1_48982_987" 
+      start_time: "14:15:00" 
+      start_date: "20250606" 
+      schedule_relationship: SCHEDULED 
+      route_id: "1_504 " 
+       direction_id: 0
+    }
+    position {
+      latitude: 37.37036861111111 
+      longitude: -6.034379722222222
+    }
+    timestamp: 1749212478
+    vehicle {
+      id: "1_0983"
+    }
+    occupancy_status: MANY_SEATS_AVAILABLE
+  }
+}
+entity { 
+id:"1048" 
+  vehicle { 
+    trip { 
+      trip_id: "3_2_37550_1441" 
+      start_time: "14:01:00" 
+      start_date: "20250606" 
+      schedule_relationship: SCHEDULED 
+      route_id: "2_2 " 
+       direction_id: 0
+    }
+    position {
+      latitude: 37.51557277777778 
+      longitude: -64.50101027777778
+    }
+    timestamp: 1749212520
+    vehicle {
+      id: "2_5129"
+    }
+    occupancy_status: MANY_SEATS_AVAILABLE
+  }
+}
+entity { 
+id:"840" 
+  vehicle { 
+    trip { 
+      trip_id: "3_1_26382_851" 
+      start_time: "14:00:00" 
+      start_date: "20250606" 
+      schedule_relationship: SCHEDULED 
+      route_id: "1_242 " 
+       direction_id: 0
+    }
+    position {
+      latitude: 37.308728888888886 
+      longitude: -5.9698891666666665
+    }
+    timestamp: 1749212478
+    vehicle {
+      id: "1_0966"
+    }
+    occupancy_status: MANY_SEATS_AVAILABLE
+  }
+}
+entity { 
+id:"667" 
+  vehicle { 
+    trip { 
+      trip_id: "3_3_78585_1218" 
+      start_time: "13:55:00" 
+      start_date: "20250606" 
+      schedule_relationship: SCHEDULED 
+      route_id: "3_989 " 
+       direction_id: 1
+    }
+    position {
+      latitude: 37.09554694444445 
+      longitude: -3.6052958333333334
+    }
+    timestamp: 1749212481
+    vehicle {
+      id: "3_4260"
+    }
+    occupancy_status: MANY_SEATS_AVAILABLE
+  }
+}
+entity { 
+id:"940" 
+  vehicle { 
+    trip { 
+      trip_id: "3_1_44000_885" 
+      start_time: "14:15:00" 
+      start_date: "20250606" 
+      schedule_relationship: SCHEDULED 
+      route_id: "1_308 " 
+       direction_id: 0
+    }
+    position {
+      latitude: 37.32487611111112 
+      longitude: -6.058050833333333
+    }
+    timestamp: 1749212494
+    vehicle {
+      id: "1_5223"
+    }
+    occupancy_status: MANY_SEATS_AVAILABLE
+  }
+}
+entity { 
+id:"196" 
+  vehicle { 
+    trip { 
+      trip_id: "3_3_70181_1223" 
+      start_time: "14:00:00" 
+      start_date: "20250606" 
+      schedule_relationship: SCHEDULED 
+      route_id: "3_991 " 
+       direction_id: 1
+    }
+    position {
+      latitude: 37.19902999999999 
+      longitude: -3.649435
+    }
+    timestamp: 1749212443
+    vehicle {
+      id: "3_4268"
+    }
+    occupancy_status: MANY_SEATS_AVAILABLE
+  }
+}
+entity { 
+id:"778" 
+  vehicle { 
+    trip { 
+      trip_id: "3_6_3314_56" 
+      start_time: "13:30:00" 
+      start_date: "20250606" 
+      schedule_relationship: SCHEDULED 
+      route_id: "6_32 " 
+       direction_id: 0
+    }
+    position {
+      latitude: 36.792632777777776 
+      longitude: -2.698569444444445
+    }
+    timestamp: 1749212481
+    vehicle {
+      id: "6_4047"
+    }
+    occupancy_status: MANY_SEATS_AVAILABLE
+  }
+}
+entity { 
+id:"774" 
+  vehicle { 
+    trip { 
+      trip_id: "3_2_28273_1083" 
+      start_time: "14:00:00" 
+      start_date: "20250606" 
+      schedule_relationship: SCHEDULED 
+      route_id: "2_26 " 
+       direction_id: 0
+    }
+    position {
+      latitude: 36.46346694444445 
+      longitude: -6.118599444444444
+    }
+    timestamp: 1749212478
+    vehicle {
+      id: "2_2005"
+    }
+    occupancy_status: MANY_SEATS_AVAILABLE
+  }
+}
+entity { 
+id:"742" 
+  vehicle { 
+    trip { 
+      trip_id: "3_4_67851_1553" 
+      start_time: "14:15:00" 
+      start_date: "20250606" 
+      schedule_relationship: SCHEDULED 
+      route_id: "4_113 " 
+       direction_id: 0
+    }
+    position {
+      latitude: 36.713240000000006 
+      longitude: -4.423916666666667
+    }
+    timestamp: 1749212486
+    vehicle {
+      id: "4_4399"
+    }
+    occupancy_status: MANY_SEATS_AVAILABLE
+  }
+}
+entity { 
+id:"719" 
+  vehicle { 
+    trip { 
+      trip_id: "3_2_37581_1441" 
+      start_time: "13:58:00" 
+      start_date: "20250606" 
+      schedule_relationship: SCHEDULED 
+      route_id: "2_2 " 
+       direction_id: 1
+    }
+    position {
+      latitude: 36.46823277777778 
+      longitude: -65.25249555555556
+    }
+    timestamp: 1749212506
+    vehicle {
+      id: "2_5109"
+    }
+    occupancy_status: MANY_SEATS_AVAILABLE
+  }
+}
+entity { 
+id:"917" 
+  vehicle { 
+    trip { 
+      trip_id: "3_1_38228_800" 
+      start_time: "14:00:00" 
+      start_date: "20250606" 
+      schedule_relationship: SCHEDULED 
+      route_id: "1_241 " 
+       direction_id: 0
+    }
+    position {
+      latitude: 37.341012222222226 
+      longitude: -5.972225555555555
+    }
+    timestamp: 1749212479
+    vehicle {
+      id: "1_0766"
+    }
+    occupancy_status: MANY_SEATS_AVAILABLE
+  }
+}
+entity { 
+id:"759" 
+  vehicle { 
+    trip { 
+      trip_id: "3_1_51924_888" 
+      start_time: "14:30:00" 
+      start_date: "20250606" 
+      schedule_relationship: SCHEDULED 
+      route_id: "1_286 " 
+       direction_id: 1
+    }
+    position {
+      latitude: 37.39176777777778 
+      longitude: -6.003908333333333
+    }
+    timestamp: 1749212502
+    vehicle {
+      id: "1_0866"
+    }
+    occupancy_status: MANY_SEATS_AVAILABLE
+  }
+}
+entity { 
+id:"837" 
+  vehicle { 
+    trip { 
+      trip_id: "3_1_50241_129" 
+      start_time: "13:40:00" 
+      start_date: "20250606" 
+      schedule_relationship: SCHEDULED 
+      route_id: "1_263 " 
+       direction_id: 0
+    }
+    position {
+      latitude: 37.389718611111114 
+      longitude: -6.011750277777778
+    }
+    timestamp: 1749212481
+    vehicle {
+      id: "1_0862"
+    }
+    occupancy_status: MANY_SEATS_AVAILABLE
+  }
+}
+entity { 
+id:"847" 
+  vehicle { 
+    trip { 
+      trip_id: "3_2_40903_1482" 
+      start_time: "14:00:00" 
+      start_date: "20250606" 
+      schedule_relationship: SCHEDULED 
+      route_id: "2_4 " 
+       direction_id: 0
+    }
+    position {
+      latitude: 36.462318888888895 
+      longitude: -6.251888611111111
+    }
+    timestamp: 1749212488
+    vehicle {
+      id: "2_3271"
+    }
+    occupancy_status: MANY_SEATS_AVAILABLE
+  }
+}
+entity { 
+id:"966" 
+  vehicle { 
+    trip { 
+      trip_id: "3_1_43551_982" 
+      start_time: "14:05:00" 
+      start_date: "20250606" 
+      schedule_relationship: SCHEDULED 
+      route_id: "1_303 " 
+       direction_id: 0
+    }
+    position {
+      latitude: 37.33712888888889 
+      longitude: -6.0644075
+    }
+    timestamp: 1749212495
+    vehicle {
+      id: "1_5219"
+    }
+    occupancy_status: MANY_SEATS_AVAILABLE
+  }
+}
+entity { 
+id:"790" 
+  vehicle { 
+    trip { 
+      trip_id: "3_1_43827_881" 
+      start_time: "14:00:00" 
+      start_date: "20250606" 
+      schedule_relationship: SCHEDULED 
+      route_id: "1_238 " 
+       direction_id: 1
+    }
+    position {
+      latitude: 37.42491638888889 
+      longitude: -5.9821525
+    }
+    timestamp: 1749212613
+    vehicle {
+      id: "1_5060"
+    }
+    occupancy_status: MANY_SEATS_AVAILABLE
+  }
+}
+entity { 
+id:"783" 
+  vehicle { 
+    trip { 
+      trip_id: "3_3_74859_1141" 
+      start_time: "14:15:00" 
+      start_date: "20250606" 
+      schedule_relationship: SCHEDULED 
+      route_id: "3_644 " 
+       direction_id: 1
+    }
+    position {
+      latitude: 37.23296027777778 
+      longitude: -3.6241969444444444
+    }
+    timestamp: 1749212482
+    vehicle {
+      id: "3_4329"
+    }
+    occupancy_status: MANY_SEATS_AVAILABLE
+  }
+}
+entity { 
+id:"897" 
+  vehicle { 
+    trip { 
+      trip_id: "3_1_41854_859" 
+      start_time: "13:45:00" 
+      start_date: "20250606" 
+      schedule_relationship: SCHEDULED 
+      route_id: "1_247 " 
+       direction_id: 1
+    }
+    position {
+      latitude: 37.348895 
+      longitude: -5.976513611111111
+    }
+    timestamp: 1749212495
+    vehicle {
+      id: "1_0978"
+    }
+    occupancy_status: MANY_SEATS_AVAILABLE
+  }
+}
+entity { 
+id:"833" 
+  vehicle { 
+    trip { 
+      trip_id: "3_8_9406_488" 
+      start_time: "13:10:00" 
+      start_date: "20250606" 
+      schedule_relationship: SCHEDULED 
+      route_id: "8_8 " 
+       direction_id: 0
+    }
+    position {
+      latitude: 38.08758277777778 
+      longitude: -4.9237311111111115
+    }
+    timestamp: 1749212434
+    vehicle {
+      id: "8_2531"
+    }
+    occupancy_status: MANY_SEATS_AVAILABLE
+  }
+}
+entity { 
+id:"993" 
+  vehicle { 
+    trip { 
+      trip_id: "3_2_39940_1408" 
+      start_time: "14:00:00" 
+      start_date: "20250606" 
+      schedule_relationship: SCHEDULED 
+      route_id: "2_7 " 
+       direction_id: 0
+    }
+    position {
+      latitude: 36.471117222222226 
+      longitude: -6.2045216666666665
+    }
+    timestamp: 1749212497
+    vehicle {
+      id: "2_2024"
+    }
+    occupancy_status: MANY_SEATS_AVAILABLE
+  }
+}
+entity { 
+id:"876" 
+  vehicle { 
+    trip { 
+      trip_id: "3_1_26482_639" 
+      start_time: "14:30:00" 
+      start_date: "20250606" 
+      schedule_relationship: SCHEDULED 
+      route_id: "1_244 " 
+       direction_id: 0
+    }
+    position {
+      latitude: 37.291982222222224 
+      longitude: -5.928635
+    }
+    timestamp: 1749212488
+    vehicle {
+      id: "1_0931"
+    }
+    occupancy_status: MANY_SEATS_AVAILABLE
+  }
+}
+entity { 
+id:"766" 
+  vehicle { 
+    trip { 
+      trip_id: "3_3_70674_1215" 
+      start_time: "14:00:00" 
+      start_date: "20250606" 
+      schedule_relationship: SCHEDULED 
+      route_id: "3_1050 " 
+       direction_id: 0
+    }
+    position {
+      latitude: 37.134772777777776 
+      longitude: -3.6691255555555555
+    }
+    timestamp: 1749212477
+    vehicle {
+      id: "3_4343"
+    }
+    occupancy_status: MANY_SEATS_AVAILABLE
+  }
+}
+entity { 
+id:"1011" 
+  vehicle { 
+    trip { 
+      trip_id: "3_1_51213_747" 
+      start_time: "14:00:00" 
+      start_date: "20250606" 
+      schedule_relationship: SCHEDULED 
+      route_id: "1_300 " 
+       direction_id: 1
+    }
+    position {
+      latitude: 37.372974166666665 
+      longitude: -6.028293888888888
+    }
+    timestamp: 1749212506
+    vehicle {
+      id: "1_5202"
+    }
+    occupancy_status: MANY_SEATS_AVAILABLE
+  }
+}
+entity { 
+id:"808" 
+  vehicle { 
+    trip { 
+      trip_id: "3_4_67387_1538" 
+      start_time: "13:00:00" 
+      start_date: "20250606" 
+      schedule_relationship: SCHEDULED 
+      route_id: "4_89 " 
+       direction_id: 0
+    }
+    position {
+      latitude: 36.70555388888889 
+      longitude: -4.567508055555555
+    }
+    timestamp: 1749212711
+    vehicle {
+      id: "4_6309"
+    }
+    occupancy_status: MANY_SEATS_AVAILABLE
+  }
+}
+entity { 
+id:"909" 
+  vehicle { 
+    trip { 
+      trip_id: "3_9_39512_97" 
+      start_time: "13:55:00" 
+      start_date: "20250606" 
+      schedule_relationship: SCHEDULED 
+      route_id: "9_15 " 
+       direction_id: 1
+    }
+    position {
+      latitude: 37.26174611111111 
+      longitude: -6.959084166666667
+    }
+    timestamp: 1749212492
+    vehicle {
+      id: "9_0880"
+    }
+    occupancy_status: MANY_SEATS_AVAILABLE
+  }
+}
+entity { 
+id:"951" 
+  vehicle { 
+    trip { 
+      trip_id: "3_2_40938_1482" 
+      start_time: "14:00:00" 
+      start_date: "20250606" 
+      schedule_relationship: SCHEDULED 
+      route_id: "2_4 " 
+       direction_id: 1
+    }
+    position {
+      latitude: 36.46014 
+      longitude: -6.246604444444444
+    }
+    timestamp: 1749212487
+    vehicle {
+      id: "2_3254"
+    }
+    occupancy_status: MANY_SEATS_AVAILABLE
+  }
+}
+entity { 
+id:"785" 
+  vehicle { 
+    trip { 
+      trip_id: "3_4_67872_1553" 
+      start_time: "13:30:00" 
+      start_date: "20250606" 
+      schedule_relationship: SCHEDULED 
+      route_id: "4_113 " 
+       direction_id: 1
+    }
+    position {
+      latitude: 36.71248472222223 
+      longitude: -4.262878333333333
+    }
+    timestamp: 1749212482
+    vehicle {
+      id: "4_4072"
+    }
+    occupancy_status: MANY_SEATS_AVAILABLE
+  }
+}
+entity { 
+id:"810" 
+  vehicle { 
+    trip { 
+      trip_id: "3_4_59484_1623" 
+      start_time: "14:00:00" 
+      start_date: "20250606" 
+      schedule_relationship: SCHEDULED 
+      route_id: "4_191 " 
+       direction_id: 0
+    }
+    position {
+      latitude: 36.914696944444444 
+      longitude: -4.8073669444444445
+    }
+    timestamp: 1749212764
+    vehicle {
+      id: "4_6312"
+    }
+    occupancy_status: MANY_SEATS_AVAILABLE
+  }
+}
+entity { 
+id:"771" 
+  vehicle { 
+    trip { 
+      trip_id: "3_3_78836_1201" 
+      start_time: "14:50:00" 
+      start_date: "20250606" 
+      schedule_relationship: SCHEDULED 
+      route_id: "3_997 " 
+       direction_id: 1
+    }
+    position {
+      latitude: 37.165605 
+      longitude: -3.597741388888889
+    }
+    timestamp: 1749212487
+    vehicle {
+      id: "3_4263"
+    }
+    occupancy_status: MANY_SEATS_AVAILABLE
+  }
+}
+entity { 
+id:"239" 
+  vehicle { 
+    trip { 
+      trip_id: "3_4_66811_1505" 
+      start_time: "06:00:00" 
+      start_date: "20250606" 
+      schedule_relationship: SCHEDULED 
+      route_id: "4_279 " 
+       direction_id: 0
+    }
+    position {
+      latitude: 36.748466111111114 
+      longitude: -43.885330833333335
+    }
+    timestamp: 1749212475
+    vehicle {
+      id: "4_6349"
+    }
+    occupancy_status: MANY_SEATS_AVAILABLE
+  }
+}
+entity { 
+id:"839" 
+  vehicle { 
+    trip { 
+      trip_id: "3_1_51872_888" 
+      start_time: "14:00:00" 
+      start_date: "20250606" 
+      schedule_relationship: SCHEDULED 
+      route_id: "1_286 " 
+       direction_id: 0
+    }
+    position {
+      latitude: 37.385241666666666 
+      longitude: -6.036701111111111
+    }
+    timestamp: 1749212492
+    vehicle {
+      id: "1_0873"
+    }
+    occupancy_status: MANY_SEATS_AVAILABLE
+  }
+}
+entity { 
+id:"1003" 
+  vehicle { 
+    trip { 
+      trip_id: "3_1_49599_1015" 
+      start_time: "13:15:00" 
+      start_date: "20250606" 
+      schedule_relationship: SCHEDULED 
+      route_id: "1_275 " 
+       direction_id: 1
+    }
+    position {
+      latitude: 37.30900361111111 
+      longitude: -6.310679166666667
+    }
+    timestamp: 1749212480
+    vehicle {
+      id: "1_0993"
+    }
+    occupancy_status: MANY_SEATS_AVAILABLE
+  }
+}
+entity { 
+id:"954" 
+  vehicle { 
+    trip { 
+      trip_id: "3_1_45411_905" 
+      start_time: "13:40:00" 
+      start_date: "20250606" 
+      schedule_relationship: SCHEDULED 
+      route_id: "1_251 " 
+       direction_id: 1
+    }
+    position {
+      latitude: 37.41892 
+      longitude: -6.107920833333333
+    }
+    timestamp: 1749212481
+    vehicle {
+      id: "1_0997"
+    }
+    occupancy_status: MANY_SEATS_AVAILABLE
+  }
+}
+entity { 
+id:"930" 
+  vehicle { 
+    trip { 
+      trip_id: "3_9_39809_97" 
+      start_time: "13:00:00" 
+      start_date: "20250606" 
+      schedule_relationship: SCHEDULED 
+      route_id: "9_66 " 
+       direction_id: 1
+    }
+    position {
+      latitude: 37.342020000000005 
+      longitude: -6.686875000000001
+    }
+    timestamp: 1749212479
+    vehicle {
+      id: "9_0949"
+    }
+    occupancy_status: MANY_SEATS_AVAILABLE
+  }
+}
+entity { 
+id:"776" 
+  vehicle { 
+    trip { 
+      trip_id: "3_6_3343_61" 
+      start_time: "13:00:00" 
+      start_date: "20250606" 
+      schedule_relationship: SCHEDULED 
+      route_id: "6_40 " 
+       direction_id: 0
+    }
+    position {
+      latitude: 36.753725277777775 
+      longitude: -2.8051383333333333
+    }
+    timestamp: 1749212491
+    vehicle {
+      id: "6_4063"
+    }
+    occupancy_status: MANY_SEATS_AVAILABLE
+  }
+}
+entity { 
+id:"831" 
+  vehicle { 
+    trip { 
+      trip_id: "3_1_43878_878" 
+      start_time: "14:00:00" 
+      start_date: "20250606" 
+      schedule_relationship: SCHEDULED 
+      route_id: "1_234 " 
+       direction_id: 0
+    }
+    position {
+      latitude: 37.52896388888889 
+      longitude: -6.154708888888889
+    }
+    timestamp: 1749212604
+    vehicle {
+      id: "1_5063"
+    }
+    occupancy_status: MANY_SEATS_AVAILABLE
+  }
+}
+entity { 
+id:"795" 
+  vehicle { 
+    trip { 
+      trip_id: "3_4_40788_832" 
+      start_time: "13:30:00" 
+      start_date: "20250606" 
+      schedule_relationship: SCHEDULED 
+      route_id: "4_114 " 
+       direction_id: 0
+    }
+    position {
+      latitude: 36.77466277777778 
+      longitude: -4.320012222222222
+    }
+    timestamp: 1749212500
+    vehicle {
+      id: "4_4140"
+    }
+    occupancy_status: MANY_SEATS_AVAILABLE
+  }
+}
+entity { 
+id:"798" 
+  vehicle { 
+    trip { 
+      trip_id: "3_2_37591_1441" 
+      start_time: "14:05:00" 
+      start_date: "20250606" 
+      schedule_relationship: SCHEDULED 
+      route_id: "2_3 " 
+       direction_id: 0
+    }
+    position {
+      latitude: 36.45198444444445 
+      longitude: -6.216961388888889
+    }
+    timestamp: 1749212496
+    vehicle {
+      id: "2_3296"
+    }
+    occupancy_status: MANY_SEATS_AVAILABLE
+  }
+}
+entity { 
+id:"802" 
+  vehicle { 
+    trip { 
+      trip_id: "3_4_71082_1617" 
+      start_time: "13:30:00" 
+      start_date: "20250606" 
+      schedule_relationship: SCHEDULED 
+      route_id: "4_96 " 
+       direction_id: 1
+    }
+    position {
+      latitude: 36.89490138888889 
+      longitude: -4.430995555555556
+    }
+    timestamp: 1749212461
+    vehicle {
+      id: "4_6005"
+    }
+    occupancy_status: MANY_SEATS_AVAILABLE
+  }
+}
+entity { 
+id:"955" 
+  vehicle { 
+    trip { 
+      trip_id: "3_9_39805_97" 
+      start_time: "13:30:00" 
+      start_date: "20250606" 
+      schedule_relationship: SCHEDULED 
+      route_id: "9_64 " 
+       direction_id: 0
+    }
+    position {
+      latitude: 37.389023333333334 
+      longitude: -6.571888888888888
+    }
+    timestamp: 1749212479
+    vehicle {
+      id: "9_0980"
+    }
+    occupancy_status: MANY_SEATS_AVAILABLE
+  }
+}
+entity { 
+id:"959" 
+  vehicle { 
+    trip { 
+      trip_id: "3_1_45333_905" 
+      start_time: "14:00:00" 
+      start_date: "20250606" 
+      schedule_relationship: SCHEDULED 
+      route_id: "1_251 " 
+       direction_id: 0
+    }
+    position {
+      latitude: 37.41439916666666 
+      longitude: -6.084213611111111
+    }
+    timestamp: 1749212498
+    vehicle {
+      id: "1_5034"
+    }
+    occupancy_status: MANY_SEATS_AVAILABLE
+  }
+}
+entity { 
+id:"931" 
+  vehicle { 
+    trip { 
+      trip_id: "3_8_9101_473" 
+      start_time: "13:30:00" 
+      start_date: "20250606" 
+      schedule_relationship: SCHEDULED 
+      route_id: "8_16 " 
+       direction_id: 0
+    }
+    position {
+      latitude: 37.59559055555556 
+      longitude: -4.664143888888889
+    }
+    timestamp: 1749212485
+    vehicle {
+      id: "8_3077"
+    }
+    occupancy_status: MANY_SEATS_AVAILABLE
+  }
+}
+entity { 
+id:"933" 
+  vehicle { 
+    trip { 
+      trip_id: "3_8_9101_473" 
+      start_time: "13:00:00" 
+      start_date: "20250606" 
+      schedule_relationship: SCHEDULED 
+      route_id: "8_16 " 
+       direction_id: 0
+    }
+    position {
+      latitude: 37.38816722222222 
+      longitude: -4.385325833333334
+    }
+    timestamp: 1749212487
+    vehicle {
+      id: "8_3065"
+    }
+    occupancy_status: MANY_SEATS_AVAILABLE
+  }
+}
+entity { 
+id:"784" 
+  vehicle { 
+    trip { 
+      trip_id: "3_2_40621_1445" 
+      start_time: "14:00:00" 
+      start_date: "20250606" 
+      schedule_relationship: SCHEDULED 
+      route_id: "2_225 " 
+       direction_id: 0
+    }
+    position {
+      latitude: 36.78179166666666 
+      longitude: -6.358261388888889
+    }
+    timestamp: 1749212500
+    vehicle {
+      id: "2_0838"
+    }
+    occupancy_status: MANY_SEATS_AVAILABLE
+  }
+}
+entity { 
+id:"807" 
+  vehicle { 
+    trip { 
+      trip_id: "3_3_49728_681" 
+      start_time: "14:00:00" 
+      start_date: "20250606" 
+      schedule_relationship: SCHEDULED 
+      route_id: "3_968 " 
+       direction_id: 0
+    }
+    position {
+      latitude: 37.14706833333333 
+      longitude: -3.6084577777777778
+    }
+    timestamp: 1749212506
+    vehicle {
+      id: "3_4327"
+    }
+    occupancy_status: MANY_SEATS_AVAILABLE
+  }
+}
+entity { 
+id:"957" 
+  vehicle { 
+    trip { 
+      trip_id: "3_1_49712_1006" 
+      start_time: "14:30:00" 
+      start_date: "20250606" 
+      schedule_relationship: SCHEDULED 
+      route_id: "1_294 " 
+       direction_id: 1
+    }
+    position {
+      latitude: 37.38624055555555 
+      longitude: -6.034081944444444
+    }
+    timestamp: 1749212484
+    vehicle {
+      id: "1_0783"
+    }
+    occupancy_status: MANY_SEATS_AVAILABLE
+  }
+}
+entity { 
+id:"862" 
+  vehicle { 
+    trip { 
+      trip_id: "3_2_37549_1441" 
+      start_time: "13:24:00" 
+      start_date: "20250606" 
+      schedule_relationship: SCHEDULED 
+      route_id: "2_2 " 
+       direction_id: 0
+    }
+    position {
+      latitude: 36.49545388888889 
+      longitude: -6.18146138888889
+    }
+    timestamp: 1749212501
+    vehicle {
+      id: "2_3272"
+    }
+    occupancy_status: MANY_SEATS_AVAILABLE
+  }
+}
+entity { 
+id:"848" 
+  vehicle { 
+    trip { 
+      trip_id: "3_2_40904_1482" 
+      start_time: "14:15:00" 
+      start_date: "20250606" 
+      schedule_relationship: SCHEDULED 
+      route_id: "2_4 " 
+       direction_id: 0
+    }
+    position {
+      latitude: 36.527031666666666 
+      longitude: -6.288943333333333
+    }
+    timestamp: 1749212495
+    vehicle {
+      id: "2_3275"
+    }
+    occupancy_status: MANY_SEATS_AVAILABLE
+  }
+}
+entity { 
+id:"922" 
+  vehicle { 
+    trip { 
+      trip_id: "3_2_40630_1445" 
+      start_time: "13:00:00" 
+      start_date: "20250606" 
+      schedule_relationship: SCHEDULED 
+      route_id: "2_225 " 
+       direction_id: 1
+    }
+    position {
+      latitude: 36.7669375 
+      longitude: -6.346710833333333
+    }
+    timestamp: 1749212482
+    vehicle {
+      id: "2_0883"
+    }
+    occupancy_status: MANY_SEATS_AVAILABLE
+  }
+}
+entity { 
+id:"919" 
+  vehicle { 
+    trip { 
+      trip_id: "3_6_3072_6" 
+      start_time: "14:00:00" 
+      start_date: "20250606" 
+      schedule_relationship: SCHEDULED 
+      route_id: "6_12 " 
+       direction_id: 1
+    }
+    position {
+      latitude: 36.81792388888889 
+      longitude: -2.2474166666666666
+    }
+    timestamp: 1749212484
+    vehicle {
+      id: "6_4054"
+    }
+    occupancy_status: MANY_SEATS_AVAILABLE
+  }
+}
+entity { 
+id:"801" 
+  vehicle { 
+    trip { 
+      trip_id: "3_6_3089_51" 
+      start_time: "13:00:00" 
+      start_date: "20250606" 
+      schedule_relationship: SCHEDULED 
+      route_id: "6_15 " 
+       direction_id: 0
+    }
+    position {
+      latitude: 36.920755 
+      longitude: -2.193843611111111
+    }
+    timestamp: 1749212491
+    vehicle {
+      id: "6_4070"
+    }
+    occupancy_status: MANY_SEATS_AVAILABLE
+  }
+}
+entity { 
+id:"820" 
+  vehicle { 
+    trip { 
+      trip_id: "3_6_3302_54" 
+      start_time: "13:15:00" 
+      start_date: "20250606" 
+      schedule_relationship: SCHEDULED 
+      route_id: "6_21 " 
+       direction_id: 0
+    }
+    position {
+      latitude: 36.73085916666667 
+      longitude: -2.630306111111111
+    }
+    timestamp: 1749212487
+    vehicle {
+      id: "6_4374"
+    }
+    occupancy_status: MANY_SEATS_AVAILABLE
+  }
+}
+entity { 
+id:"918" 
+  vehicle { 
+    trip { 
+      trip_id: "3_7_10119_264" 
+      start_time: "14:00:00" 
+      start_date: "20250606" 
+      schedule_relationship: SCHEDULED 
+      route_id: "7_282 " 
+       direction_id: 0
+    }
+    position {
+      latitude: 37.75325472222222 
+      longitude: -3.948981388888889
+    }
+    timestamp: 1749212679
+    vehicle {
+      id: "7_0478"
+    }
+    occupancy_status: MANY_SEATS_AVAILABLE
+  }
+}
+entity { 
+id:"836" 
+  vehicle { 
+    trip { 
+      trip_id: "3_1_45438_905" 
+      start_time: "13:50:00" 
+      start_date: "20250606" 
+      schedule_relationship: SCHEDULED 
+      route_id: "1_254 " 
+       direction_id: 1
+    }
+    position {
+      latitude: 37.41423638888889 
+      longitude: -6.084242222222222
+    }
+    timestamp: 1749212496
+    vehicle {
+      id: "1_0894"
+    }
+    occupancy_status: MANY_SEATS_AVAILABLE
+  }
+}
+entity { 
+id:"943" 
+  vehicle { 
+    trip { 
+      trip_id: "3_1_50243_129" 
+      start_time: "14:20:00" 
+      start_date: "20250606" 
+      schedule_relationship: SCHEDULED 
+      route_id: "1_263 " 
+       direction_id: 0
+    }
+    position {
+      latitude: 37.39311611111111 
+      longitude: -6.003915
+    }
+    timestamp: 1749212479
+    vehicle {
+      id: "1_0905"
+    }
+    occupancy_status: MANY_SEATS_AVAILABLE
+  }
+}
+entity { 
+id:"339" 
+  vehicle { 
+    trip { 
+      trip_id: "3_1_42990_869" 
+      start_time: "13:45:00" 
+      start_date: "20250606" 
+      schedule_relationship: SCHEDULED 
+      route_id: "1_210 " 
+       direction_id: 1
+    }
+    position {
+      latitude: 37.488483055555555 
+      longitude: -5.9778025
+    }
+    timestamp: 1749212500
+    vehicle {
+      id: "1_5134"
+    }
+    occupancy_status: MANY_SEATS_AVAILABLE
+  }
+}
+entity { 
+id:"350" 
+  vehicle { 
+    trip { 
+      trip_id: "3_1_44790_894" 
+      start_time: "14:10:00" 
+      start_date: "20250606" 
+      schedule_relationship: SCHEDULED 
+      route_id: "1_218 " 
+       direction_id: 1
+    }
+    position {
+      latitude: 37.37153 
+      longitude: -5.971935
+    }
+    timestamp: 1749212427
+    vehicle {
+      id: "1_5118"
+    }
+    occupancy_status: MANY_SEATS_AVAILABLE
+  }
+}
+entity { 
+id:"830" 
+  vehicle { 
+    trip { 
+      trip_id: "3_3_51618_1099" 
+      start_time: "14:04:00" 
+      start_date: "20250606" 
+      schedule_relationship: SCHEDULED 
+      route_id: "3_727 " 
+       direction_id: 1
+    }
+    position {
+      latitude: 37.161256944444446 
+      longitude: -33.400555
+    }
+    timestamp: 1749212510
+    vehicle {
+      id: "3_5206"
+    }
+    occupancy_status: MANY_SEATS_AVAILABLE
+  }
+}
+entity { 
+id:"1005" 
+  vehicle { 
+    trip { 
+      trip_id: "3_1_42701_869" 
+      start_time: "13:40:00" 
+      start_date: "20250606" 
+      schedule_relationship: SCHEDULED 
+      route_id: "1_206 " 
+       direction_id: 1
+    }
+    position {
+      latitude: 37.47372333333333 
+      longitude: -5.930395555555556
+    }
+    timestamp: 1749212494
+    vehicle {
+      id: "1_5120"
+    }
+    occupancy_status: MANY_SEATS_AVAILABLE
+  }
+}
+entity { 
+id:"841" 
+  vehicle { 
+    trip { 
+      trip_id: "3_6_3722_38" 
+      start_time: "14:15:00" 
+      start_date: "20250606" 
+      schedule_relationship: SCHEDULED 
+      route_id: "6_19 " 
+       direction_id: 0
+    }
+    position {
+      latitude: 36.833758888888894 
+      longitude: -2.460216388888889
+    }
+    timestamp: 1749212509
+    vehicle {
+      id: "6_4067"
+    }
+    occupancy_status: MANY_SEATS_AVAILABLE
+  }
+}
+entity { 
+id:"871" 
+  vehicle { 
+    trip { 
+      trip_id: "3_2_40905_1482" 
+      start_time: "14:30:00" 
+      start_date: "20250606" 
+      schedule_relationship: SCHEDULED 
+      route_id: "2_4 " 
+       direction_id: 0
+    }
+    position {
+      latitude: 36.52634944444444 
+      longitude: -6.283855277777778
+    }
+    timestamp: 1749212484
+    vehicle {
+      id: "2_3279"
+    }
+    occupancy_status: MANY_SEATS_AVAILABLE
+  }
+}
+entity { 
+id:"330" 
+  vehicle { 
+    trip { 
+      trip_id: "3_7_7685_258" 
+      start_time: "14:10:00" 
+      start_date: "20250606" 
+      schedule_relationship: SCHEDULED 
+      route_id: "7_56 " 
+       direction_id: 0
+    }
+    position {
+      latitude: 37.768744444444444 
+      longitude: -3.778503888888889
+    }
+    timestamp: 1749212585
+    vehicle {
+      id: "7_5153"
+    }
+    occupancy_status: MANY_SEATS_AVAILABLE
+  }
+}
+entity { 
+id:"343" 
+  vehicle { 
+    trip { 
+      trip_id: "3_1_33464_985" 
+      start_time: "14:30:00" 
+      start_date: "20250606" 
+      schedule_relationship: SCHEDULED 
+      route_id: "1_289 " 
+       direction_id: 1
+    }
+    position {
+      latitude: 37.39133138888889 
+      longitude: -6.003926944444444
+    }
+    timestamp: 1749212424
+    vehicle {
+      id: "1_0867"
+    }
+    occupancy_status: MANY_SEATS_AVAILABLE
+  }
+}
+entity { 
+id:"1121" 
+  vehicle { 
+    trip { 
+      trip_id: "3_8_9070_472" 
+      start_time: "13:30:00" 
+      start_date: "20250606" 
+      schedule_relationship: SCHEDULED 
+      route_id: "8_11 " 
+       direction_id: 0
+    }
+    position {
+      latitude: 37.991235555555555 
+      longitude: -4.436178611111111
+    }
+    timestamp: 1749212633
+    vehicle {
+      id: "8_4013"
+    }
+    occupancy_status: MANY_SEATS_AVAILABLE
+  }
+}
+entity { 
+id:"1035" 
+  vehicle { 
+    trip { 
+      trip_id: "3_9_39626_97" 
+      start_time: "14:00:00" 
+      start_date: "20250606" 
+      schedule_relationship: SCHEDULED 
+      route_id: "9_34 " 
+       direction_id: 0
+    }
+    position {
+      latitude: 37.206591111111116 
+      longitude: -7.020835
+    }
+    timestamp: 1749212486
+    vehicle {
+      id: "9_0928"
+    }
+    occupancy_status: MANY_SEATS_AVAILABLE
+  }
+}
+entity { 
+id:"905" 
+  vehicle { 
+    trip { 
+      trip_id: "3_2_34842_1274" 
+      start_time: "14:10:00" 
+      start_date: "20250606" 
+      schedule_relationship: SCHEDULED 
+      route_id: "2_239 " 
+       direction_id: 0
+    }
+    position {
+      latitude: 36.522283055555555 
+      longitude: -6.277882222222222
+    }
+    timestamp: 1749212483
+    vehicle {
+      id: "2_3273"
+    }
+    occupancy_status: MANY_SEATS_AVAILABLE
+  }
+}
+entity { 
+id:"1036" 
+  vehicle { 
+    trip { 
+      trip_id: "3_5_911_96" 
+      start_time: "13:00:00" 
+      start_date: "20250606" 
+      schedule_relationship: SCHEDULED 
+      route_id: "5_8 " 
+       direction_id: 1
+    }
+    position {
+      latitude: 36.03393805555555 
+      longitude: -5.616892777777778
+    }
+    timestamp: 1749212482
+    vehicle {
+      id: "5_3291"
+    }
+    occupancy_status: MANY_SEATS_AVAILABLE
+  }
+}
+entity { 
+id:"1010" 
+  vehicle { 
+    trip { 
+      trip_id: "3_2_32590_1465" 
+      start_time: "14:00:00" 
+      start_date: "20250606" 
+      schedule_relationship: SCHEDULED 
+      route_id: "2_6 " 
+       direction_id: 0
+    }
+    position {
+      latitude: 36.497977222222225 
+      longitude: -6.272173055555555
+    }
+    timestamp: 1749212484
+    vehicle {
+      id: "2_3260"
+    }
+    occupancy_status: MANY_SEATS_AVAILABLE
+  }
+}
+entity { 
+id:"873" 
+  vehicle { 
+    trip { 
+      trip_id: "3_4_67862_1553" 
+      start_time: "22:15:00" 
+      start_date: "20250606" 
+      schedule_relationship: SCHEDULED 
+      route_id: "4_113 " 
+       direction_id: 0
+    }
+    position {
+      latitude: 36.71635027777778 
+      longitude: -4.420628611111112
+    }
+    timestamp: 1749212485
+    vehicle {
+      id: "4_4425"
+    }
+    occupancy_status: MANY_SEATS_AVAILABLE
+  }
+}
+entity { 
+id:"1085" 
+  vehicle { 
+    trip { 
+      trip_id: "3_1_43845_881" 
+      start_time: "14:00:00" 
+      start_date: "20250606" 
+      schedule_relationship: SCHEDULED 
+      route_id: "1_238 " 
+       direction_id: 0
+    }
+    position {
+      latitude: 37.58995 
+      longitude: -5.8758486111111115
+    }
+    timestamp: 1749212615
+    vehicle {
+      id: "1_5061"
+    }
+    occupancy_status: MANY_SEATS_AVAILABLE
+  }
+}
+entity { 
+id:"886" 
+  vehicle { 
+    trip { 
+      trip_id: "3_3_79779_1242" 
+      start_time: "14:30:00" 
+      start_date: "20250606" 
+      schedule_relationship: SCHEDULED 
+      route_id: "3_1047 " 
+       direction_id: 1
+    }
+    position {
+      latitude: 37.08788611111111 
+      longitude: -3.6173844444444443
+    }
+    timestamp: 1749212503
+    vehicle {
+      id: "3_4338"
+    }
+    occupancy_status: MANY_SEATS_AVAILABLE
+  }
+}
+entity { 
+id:"371" 
+  vehicle { 
+    trip { 
+      trip_id: "3_1_42867_872" 
+      start_time: "14:05:00" 
+      start_date: "20250606" 
+      schedule_relationship: SCHEDULED 
+      route_id: "1_216 " 
+       direction_id: 0
+    }
+    position {
+      latitude: 37.32099361111111 
+      longitude: -5.898815
+    }
+    timestamp: 1749212515
+    vehicle {
+      id: "1_5131"
+    }
+    occupancy_status: MANY_SEATS_AVAILABLE
+  }
+}
+entity { 
+id:"899" 
+  vehicle { 
+    trip { 
+      trip_id: "3_3_79131_1230" 
+      start_time: "14:15:00" 
+      start_date: "20250606" 
+      schedule_relationship: SCHEDULED 
+      route_id: "3_958 " 
+       direction_id: 1
+    }
+    position {
+      latitude: 37.25719222222222 
+      longitude: -3.6570027777777776
+    }
+    timestamp: 1749212503
+    vehicle {
+      id: "3_4328"
+    }
+    occupancy_status: MANY_SEATS_AVAILABLE
+  }
+}
+entity { 
+id:"1078" 
+  vehicle { 
+    trip { 
+      trip_id: "3_9_39836_97" 
+      start_time: "11:30:00" 
+      start_date: "20250606" 
+      schedule_relationship: SCHEDULED 
+      route_id: "9_66 " 
+       direction_id: 1
+    }
+    position {
+      latitude: 37.21420944444445 
+      longitude: -7.401686111111111
+    }
+    timestamp: 1749212485
+    vehicle {
+      id: "9_0975"
+    }
+    occupancy_status: MANY_SEATS_AVAILABLE
+  }
+}
+entity { 
+id:"1001" 
+  vehicle { 
+    trip { 
+      trip_id: "3_3_78545_1218" 
+      start_time: "14:15:00" 
+      start_date: "20250606" 
+      schedule_relationship: SCHEDULED 
+      route_id: "3_989 " 
+       direction_id: 0
+    }
+    position {
+      latitude: 37.094665 
+      longitude: -3.6053341666666667
+    }
+    timestamp: 1749212492
+    vehicle {
+      id: "3_4253"
+    }
+    occupancy_status: MANY_SEATS_AVAILABLE
+  }
+}
+entity { 
+id:"960" 
+  vehicle { 
+    trip { 
+      trip_id: "3_5_3486_96" 
+      start_time: "15:30:00" 
+      start_date: "20250606" 
+      schedule_relationship: SCHEDULED 
+      route_id: "5_4 " 
+       direction_id: 1
+    }
+    position {
+      latitude: 36.18778333333333 
+      longitude: -5.334011111111111
+    }
+    timestamp: 1749212492
+    vehicle {
+      id: "5_3259"
+    }
+    occupancy_status: MANY_SEATS_AVAILABLE
+  }
+}
+entity { 
+id:"366" 
+  vehicle { 
+    trip { 
+      trip_id: "3_3_74328_1135" 
+      start_time: "14:00:00" 
+      start_date: "20250606" 
+      schedule_relationship: SCHEDULED 
+      route_id: "3_1029 " 
+       direction_id: 0
+    }
+    position {
+      latitude: 37.20785416666667 
+      longitude: -3.674601111111111
+    }
+    timestamp: 1749212474
+    vehicle {
+      id: "3_4079"
+    }
+    occupancy_status: MANY_SEATS_AVAILABLE
+  }
+}
+entity { 
+id:"788" 
+  vehicle { 
+    trip { 
+      trip_id: "3_3_79759_1242" 
+      start_time: "14:00:00" 
+      start_date: "20250606" 
+      schedule_relationship: SCHEDULED 
+      route_id: "3_1047 " 
+       direction_id: 0
+    }
+    position {
+      latitude: 37.13623305555556 
+      longitude: -3.6290222222222224
+    }
+    timestamp: 1749212485
+    vehicle {
+      id: "3_4250"
+    }
+    occupancy_status: MANY_SEATS_AVAILABLE
+  }
+}
+entity { 
+id:"1008" 
+  vehicle { 
+    trip { 
+      trip_id: "3_7_10190_265" 
+      start_time: "14:00:00" 
+      start_date: "20250606" 
+      schedule_relationship: SCHEDULED 
+      route_id: "7_62 " 
+       direction_id: 1
+    }
+    position {
+      latitude: 37.957255555555555 
+      longitude: -3.979771388888889
+    }
+    timestamp: 1749212753
+    vehicle {
+      id: "7_0429"
+    }
+    occupancy_status: MANY_SEATS_AVAILABLE
+  }
+}
+entity { 
+id:"939" 
+  vehicle { 
+    trip { 
+      trip_id: "3_2_40904_1482" 
+      start_time: "14:15:00" 
+      start_date: "20250606" 
+      schedule_relationship: SCHEDULED 
+      route_id: "2_4 " 
+       direction_id: 0
+    }
+    position {
+      latitude: 36.534171388888886 
+      longitude: -6.292556111111111
+    }
+    timestamp: 1749212506
+    vehicle {
+      id: "2_3319"
+    }
+    occupancy_status: MANY_SEATS_AVAILABLE
+  }
+}
+entity { 
+id:"1120" 
+  vehicle { 
+    trip { 
+      trip_id: "3_1_42455_788" 
+      start_time: "13:30:00" 
+      start_date: "20250606" 
+      schedule_relationship: SCHEDULED 
+      route_id: "1_267 " 
+       direction_id: 1
+    }
+    position {
+      latitude: 37.35980722222222 
+      longitude: -6.2735025
+    }
+    timestamp: 1749212495
+    vehicle {
+      id: "1_0884"
+    }
+    occupancy_status: MANY_SEATS_AVAILABLE
+  }
+}
+entity { 
+id:"958" 
+  vehicle { 
+    trip { 
+      trip_id: "3_3_63628_1239" 
+      start_time: "14:00:00" 
+      start_date: "20250606" 
+      schedule_relationship: SCHEDULED 
+      route_id: "3_841 " 
+       direction_id: 1
+    }
+    position {
+      latitude: 37.20070944444445 
+      longitude: -3.614091666666667
+    }
+    timestamp: 1749212492
+    vehicle {
+      id: "3_4042"
+    }
+    occupancy_status: MANY_SEATS_AVAILABLE
+  }
+}
+entity { 
+id:"944" 
+  vehicle { 
+    trip { 
+      trip_id: "3_3_73133_1105" 
+      start_time: "14:00:00" 
+      start_date: "20250606" 
+      schedule_relationship: SCHEDULED 
+      route_id: "3_639 " 
+       direction_id: 0
+    }
+    position {
+      latitude: 37.19941277777777 
+      longitude: -3.599653611111111
+    }
+    timestamp: 1749212801
+    vehicle {
+      id: "3_2658"
+    }
+    occupancy_status: MANY_SEATS_AVAILABLE
+  }
+}
+entity { 
+id:"1002" 
+  vehicle { 
+    trip { 
+      trip_id: "3_1_45354_905" 
+      start_time: "14:30:00" 
+      start_date: "20250606" 
+      schedule_relationship: SCHEDULED 
+      route_id: "1_250 " 
+       direction_id: 0
+    }
+    position {
+      latitude: 37.421683888888886 
+      longitude: -6.151402777777778
+    }
+    timestamp: 1749212508
+    vehicle {
+      id: "1_0895"
+    }
+    occupancy_status: MANY_SEATS_AVAILABLE
+  }
+}
+entity { 
+id:"1124" 
+  vehicle { 
+    trip { 
+      trip_id: "3_1_49737_1006" 
+      start_time: "14:15:00" 
+      start_date: "20250606" 
+      schedule_relationship: SCHEDULED 
+      route_id: "1_295 " 
+       direction_id: 0
+    }
+    position {
+      latitude: 37.36224444444444 
+      longitude: -6.167171666666667
+    }
+    timestamp: 1749212505
+    vehicle {
+      id: "1_0995"
+    }
+    occupancy_status: MANY_SEATS_AVAILABLE
+  }
+}
+entity { 
+id:"997" 
+  vehicle { 
+    trip { 
+      trip_id: "3_6_4005_67" 
+      start_time: "13:45:00" 
+      start_date: "20250606" 
+      schedule_relationship: SCHEDULED 
+      route_id: "6_97 " 
+       direction_id: 1
+    }
+    position {
+      latitude: 36.883111944444444 
+      longitude: -2.4358008333333334
+    }
+    timestamp: 1749212626
+    vehicle {
+      id: "6_1510"
+    }
+    occupancy_status: MANY_SEATS_AVAILABLE
+  }
+}
+entity { 
+id:"1110" 
+  vehicle { 
+    trip { 
+      trip_id: "3_1_36176_1009" 
+      start_time: "13:55:00" 
+      start_date: "20250606" 
+      schedule_relationship: SCHEDULED 
+      route_id: "1_248 " 
+       direction_id: 0
+    }
+    position {
+      latitude: 37.399125833333336 
+      longitude: -6.03638
+    }
+    timestamp: 1749212491
+    vehicle {
+      id: "1_0759"
+    }
+    occupancy_status: MANY_SEATS_AVAILABLE
+  }
+}
+entity { 
+id:"971" 
+  vehicle { 
+    trip { 
+      trip_id: "3_3_79778_1242" 
+      start_time: "14:00:00" 
+      start_date: "20250606" 
+      schedule_relationship: SCHEDULED 
+      route_id: "3_1047 " 
+       direction_id: 1
+    }
+    position {
+      latitude: 37.11781638888889 
+      longitude: -3.632499166666667
+    }
+    timestamp: 1749212504
+    vehicle {
+      id: "3_4264"
+    }
+    occupancy_status: MANY_SEATS_AVAILABLE
+  }
+}
+entity { 
+id:"967" 
+  vehicle { 
+    trip { 
+      trip_id: "3_1_43635_878" 
+      start_time: "13:50:00" 
+      start_date: "20250606" 
+      schedule_relationship: SCHEDULED 
+      route_id: "1_232 " 
+       direction_id: 0
+    }
+    position {
+      latitude: 37.403461388888886 
+      longitude: -5.9877475
+    }
+    timestamp: 1749212817
+    vehicle {
+      id: "1_5051"
+    }
+    occupancy_status: MANY_SEATS_AVAILABLE
+  }
+}
+entity { 
+id:"1081" 
+  vehicle { 
+    trip { 
+      trip_id: "3_9_39815_97" 
+      start_time: "14:00:00" 
+      start_date: "20250606" 
+      schedule_relationship: SCHEDULED 
+      route_id: "9_45 " 
+       direction_id: 0
+    }
+    position {
+      latitude: 37.204593888888894 
+      longitude: -6.9221125
+    }
+    timestamp: 1749212454
+    vehicle {
+      id: "9_0773"
+    }
+    occupancy_status: MANY_SEATS_AVAILABLE
+  }
+}
+entity { 
+id:"936" 
+  vehicle { 
+    trip { 
+      trip_id: "3_5_3482_96" 
+      start_time: "14:15:00" 
+      start_date: "20250606" 
+      schedule_relationship: SCHEDULED 
+      route_id: "5_4 " 
+       direction_id: 1
+    }
+    position {
+      latitude: 36.165036944444445 
+      longitude: -5.3606175
+    }
+    timestamp: 1749212503
+    vehicle {
+      id: "5_3304"
+    }
+    occupancy_status: MANY_SEATS_AVAILABLE
+  }
+}
+entity { 
+id:"1116" 
+  vehicle { 
+    trip { 
+      trip_id: "3_1_41866_859" 
+      start_time: "14:00:00" 
+      start_date: "20250606" 
+      schedule_relationship: SCHEDULED 
+      route_id: "1_247 " 
+       direction_id: 0
+    }
+    position {
+      latitude: 37.29389666666666 
+      longitude: -5.948375833333333
+    }
+    timestamp: 1749212499
+    vehicle {
+      id: "1_0848"
+    }
+    occupancy_status: MANY_SEATS_AVAILABLE
+  }
+}
+entity { 
+id:"1022" 
+  vehicle { 
+    trip { 
+      trip_id: "3_9_39786_97" 
+      start_time: "15:00:00" 
+      start_date: "20250606" 
+      schedule_relationship: SCHEDULED 
+      route_id: "9_36 " 
+       direction_id: 0
+    }
+    position {
+      latitude: 37.25801111111111 
+      longitude: -6.957207222222222
+    }
+    timestamp: 1749212492
+    vehicle {
+      id: "9_0944"
+    }
+    occupancy_status: MANY_SEATS_AVAILABLE
+  }
+}
+entity { 
+id:"1018" 
+  vehicle { 
+    trip { 
+      trip_id: "3_7_10123_264" 
+      start_time: "14:00:00" 
+      start_date: "20250606" 
+      schedule_relationship: SCHEDULED 
+      route_id: "7_282 " 
+       direction_id: 1
+    }
+    position {
+      latitude: 37.774254166666665 
+      longitude: -3.802502222222222
+    }
+    timestamp: 1749212780
+    vehicle {
+      id: "7_0492"
+    }
+    occupancy_status: MANY_SEATS_AVAILABLE
+  }
+}
+entity { 
+id:"1013" 
+  vehicle { 
+    trip { 
+      trip_id: "3_3_79392_1234" 
+      start_time: "14:20:00" 
+      start_date: "20250606" 
+      schedule_relationship: SCHEDULED 
+      route_id: "3_963 " 
+       direction_id: 0
+    }
+    position {
+      latitude: 37.23348055555556 
+      longitude: -3.6789391666666664
+    }
+    timestamp: 1749212489
+    vehicle {
+      id: "3_4341"
+    }
+    occupancy_status: MANY_SEATS_AVAILABLE
+  }
+}
+entity { 
+id:"1021" 
+  vehicle { 
+    trip { 
+      trip_id: "3_3_79847_1235" 
+      start_time: "14:00:00" 
+      start_date: "20250606" 
+      schedule_relationship: SCHEDULED 
+      route_id: "3_867 " 
+       direction_id: 0
+    }
+    position {
+      latitude: 37.19144305555555 
+      longitude: -3.6485097222222223
+    }
+    timestamp: 1749212497
+    vehicle {
+      id: "3_4003"
+    }
+    occupancy_status: MANY_SEATS_AVAILABLE
+  }
+}
+entity { 
+id:"1023" 
+  vehicle { 
+    trip { 
+      trip_id: "3_6_3834_37" 
+      start_time: "13:20:00" 
+      start_date: "20250606" 
+      schedule_relationship: SCHEDULED 
+      route_id: "6_49 " 
+       direction_id: 0
+    }
+    position {
+      latitude: 36.732974444444444 
+      longitude: -2.619233611111111
+    }
+    timestamp: 1749212491
+    vehicle {
+      id: "6_4370"
+    }
+    occupancy_status: MANY_SEATS_AVAILABLE
+  }
+}
+entity { 
+id:"1016" 
+  vehicle { 
+    trip { 
+      trip_id: "3_6_3927_61" 
+      start_time: "14:30:00" 
+      start_date: "20250606" 
+      schedule_relationship: SCHEDULED 
+      route_id: "6_40 " 
+       direction_id: 0
+    }
+    position {
+      latitude: 36.83441083333334 
+      longitude: -2.455717777777778
+    }
+    timestamp: 1749212506
+    vehicle {
+      id: "6_4383"
+    }
+    occupancy_status: MANY_SEATS_AVAILABLE
+  }
+}
+entity { 
+id:"1020" 
+  vehicle { 
+    trip { 
+      trip_id: "3_3_74837_1240" 
+      start_time: "13:55:00" 
+      start_date: "20250606" 
+      schedule_relationship: SCHEDULED 
+      route_id: "3_1105 " 
+       direction_id: 1
+    }
+    position {
+      latitude: 37.162658888888885 
+      longitude: -3.601870277777778
+    }
+    timestamp: 1749212500
+    vehicle {
+      id: "3_4017"
+    }
+    occupancy_status: MANY_SEATS_AVAILABLE
+  }
+}
+entity { 
+id:"1034" 
+  vehicle { 
+    trip { 
+      trip_id: "3_1_42650_869" 
+      start_time: "13:30:00" 
+      start_date: "20250606" 
+      schedule_relationship: SCHEDULED 
+      route_id: "1_466 " 
+       direction_id: 0
+    }
+    position {
+      latitude: 37.339765 
+      longitude: -5.8355025
+    }
+    timestamp: 1749212576
+    vehicle {
+      id: "1_5123"
+    }
+    occupancy_status: MANY_SEATS_AVAILABLE
+  }
+}
+entity { 
+id:"438" 
+  vehicle { 
+    trip { 
+      trip_id: "3_1_44396_888" 
+      start_time: "14:00:00" 
+      start_date: "20250606" 
+      schedule_relationship: SCHEDULED 
+      route_id: "1_284 " 
+       direction_id: 0
+    }
+    position {
+      latitude: 37.39301972222222 
+      longitude: -6.139216388888889
+    }
+    timestamp: 1749212481
+    vehicle {
+      id: "1_0916"
+    }
+    occupancy_status: MANY_SEATS_AVAILABLE
+  }
+}
+entity { 
+id:"1099" 
+  vehicle { 
+    trip { 
+      trip_id: "3_3_69646_1217" 
+      start_time: "14:10:00" 
+      start_date: "20250606" 
+      schedule_relationship: SCHEDULED 
+      route_id: "3_986 " 
+       direction_id: 1
+    }
+    position {
+      latitude: 37.19711083333333 
+      longitude: -3.6342766666666666
+    }
+    timestamp: 1749212494
+    vehicle {
+      id: "3_4261"
+    }
+    occupancy_status: MANY_SEATS_AVAILABLE
+  }
+}
+entity { 
+id:"623" 
+  vehicle { 
+    trip { 
+      trip_id: "3_1_41855_859" 
+      start_time: "14:30:00" 
+      start_date: "20250606" 
+      schedule_relationship: SCHEDULED 
+      route_id: "1_247 " 
+       direction_id: 1
+    }
+    position {
+      latitude: 37.37883583333333 
+      longitude: -5.987810277777778
+    }
+    timestamp: 1749212427
+    vehicle {
+      id: "1_0750"
+    }
+    occupancy_status: MANY_SEATS_AVAILABLE
+  }
+}
+entity { 
+id:"437" 
+  vehicle { 
+    trip { 
+      trip_id: "3_3_79675_1241" 
+      start_time: "14:00:00" 
+      start_date: "20250606" 
+      schedule_relationship: SCHEDULED 
+      route_id: "3_1042 " 
+       direction_id: 0
+    }
+    position {
+      latitude: 37.16434611111111 
+      longitude: -3.6669255555555553
+    }
+    timestamp: 1749212481
+    vehicle {
+      id: "3_4004"
+    }
+    occupancy_status: MANY_SEATS_AVAILABLE
+  }
+}
+entity { 
+id:"1126" 
+  vehicle { 
+    trip { 
+      trip_id: "3_1_43593_878" 
+      start_time: "14:00:00" 
+      start_date: "20250606" 
+      schedule_relationship: SCHEDULED 
+      route_id: "1_232 " 
+       direction_id: 1
+    }
+    position {
+      latitude: 37.42393 
+      longitude: -5.982388055555556
+    }
+    timestamp: 1749212597
+    vehicle {
+      id: "1_5067"
+    }
+    occupancy_status: MANY_SEATS_AVAILABLE
+  }
+}
+entity { 
+id:"1066" 
+  vehicle { 
+    trip { 
+      trip_id: "3_4_70997_1614" 
+      start_time: "13:05:00" 
+      start_date: "20250606" 
+      schedule_relationship: SCHEDULED 
+      route_id: "4_176 " 
+       direction_id: 0
+    }
+    position {
+      latitude: 36.725074444444445 
+      longitude: -4.439176388888889
+    }
+    timestamp: 1749212494
+    vehicle {
+      id: "4_4400"
+    }
+    occupancy_status: MANY_SEATS_AVAILABLE
+  }
+}
+entity { 
+id:"1060" 
+  vehicle { 
+    trip { 
+      trip_id: "3_1_41855_859" 
+      start_time: "14:00:00" 
+      start_date: "20250606" 
+      schedule_relationship: SCHEDULED 
+      route_id: "1_247 " 
+       direction_id: 1
+    }
+    position {
+      latitude: 37.34671111111111 
+      longitude: -5.975879166666667
+    }
+    timestamp: 1749212515
+    vehicle {
+      id: "1_0757"
+    }
+    occupancy_status: MANY_SEATS_AVAILABLE
+  }
+}
+entity { 
+id:"1039" 
+  vehicle { 
+    trip { 
+      trip_id: "3_9_39521_97" 
+      start_time: "15:00:00" 
+      start_date: "20250606" 
+      schedule_relationship: SCHEDULED 
+      route_id: "9_16 " 
+       direction_id: 0
+    }
+    position {
+      latitude: 37.25795 
+      longitude: -6.9576955555555555
+    }
+    timestamp: 1749212513
+    vehicle {
+      id: "9_0897"
+    }
+    occupancy_status: MANY_SEATS_AVAILABLE
+  }
+}
+entity { 
+id:"1115" 
+  vehicle { 
+    trip { 
+      trip_id: "3_3_76759_1166" 
+      start_time: "14:30:00" 
+      start_date: "20250606" 
+      schedule_relationship: SCHEDULED 
+      route_id: "3_1111 " 
+       direction_id: 0
+    }
+    position {
+      latitude: 37.183679722222216 
+      longitude: -3.600864722222222
+    }
+    timestamp: 1749212505
+    vehicle {
+      id: "3_4220"
+    }
+    occupancy_status: MANY_SEATS_AVAILABLE
+  }
+}
+entity { 
+id:"477" 
+  vehicle { 
+    trip { 
+      trip_id: "3_8_9412_488" 
+      start_time: "13:30:00" 
+      start_date: "20250606" 
+      schedule_relationship: SCHEDULED 
+      route_id: "8_12 " 
+       direction_id: 0
+    }
+    position {
+      latitude: 38.000085 
+      longitude: -4.537410277777778
+    }
+    timestamp: 1749212625
+    vehicle {
+      id: "8_2562"
+    }
+    occupancy_status: MANY_SEATS_AVAILABLE
+  }
+}
+entity { 
+id:"1047" 
+  vehicle { 
+    trip { 
+      trip_id: "3_3_78835_1201" 
+      start_time: "14:20:00" 
+      start_date: "20250606" 
+      schedule_relationship: SCHEDULED 
+      route_id: "3_997 " 
+       direction_id: 1
+    }
+    position {
+      latitude: 37.16401027777778 
+      longitude: -3.5967152777777778
+    }
+    timestamp: 1749212471
+    vehicle {
+      id: "3_4362"
+    }
+    occupancy_status: MANY_SEATS_AVAILABLE
+  }
+}
+entity { 
+id:"1091" 
+  vehicle { 
+    trip { 
+      trip_id: "3_6_3908_57" 
+      start_time: "13:15:00" 
+      start_date: "20250606" 
+      schedule_relationship: SCHEDULED 
+      route_id: "6_26 " 
+       direction_id: 0
+    }
+    position {
+      latitude: 36.751642777777775 
+      longitude: -2.8123758333333333
+    }
+    timestamp: 1749212581
+    vehicle {
+      id: "6_1504"
+    }
+    occupancy_status: MANY_SEATS_AVAILABLE
+  }
+}
+entity { 
+id:"1069" 
+  vehicle { 
+    trip { 
+      trip_id: "3_3_79221_1186" 
+      start_time: "13:05:00" 
+      start_date: "20250606" 
+      schedule_relationship: SCHEDULED 
+      route_id: "3_1027 " 
+       direction_id: 1
+    }
+    position {
+      latitude: 37.19942833333333 
+      longitude: -3.6495491666666666
+    }
+    timestamp: 1749212503
+    vehicle {
+      id: "3_4006"
+    }
+    occupancy_status: MANY_SEATS_AVAILABLE
+  }
+}
+entity { 
+id:"1079" 
+  vehicle { 
+    trip { 
+      trip_id: "3_6_3834_37" 
+      start_time: "13:50:00" 
+      start_date: "20250606" 
+      schedule_relationship: SCHEDULED 
+      route_id: "6_49 " 
+       direction_id: 0
+    }
+    position {
+      latitude: 36.755788333333335 
+      longitude: -2.608427777777778
+    }
+    timestamp: 1749212512
+    vehicle {
+      id: "6_4038"
+    }
+    occupancy_status: MANY_SEATS_AVAILABLE
+  }
+}
+entity { 
+id:"1080" 
+  vehicle { 
+    trip { 
+      trip_id: "3_3_70195_1223" 
+      start_time: "14:15:00" 
+      start_date: "20250606" 
+      schedule_relationship: SCHEDULED 
+      route_id: "3_991 " 
+       direction_id: 0
+    }
+    position {
+      latitude: 37.19099416666666 
+      longitude: -3.6174994444444444
+    }
+    timestamp: 1749212511
+    vehicle {
+      id: "3_4266"
+    }
+    occupancy_status: MANY_SEATS_AVAILABLE
+  }
+}
+entity { 
+id:"1071" 
+  vehicle { 
+    trip { 
+      trip_id: "3_3_65992_979" 
+      start_time: "14:00:00" 
+      start_date: "20250606" 
+      schedule_relationship: SCHEDULED 
+      route_id: "3_1035 " 
+       direction_id: 0
+    }
+    position {
+      latitude: 37.22575055555556 
+      longitude: -3.634715
+    }
+    timestamp: 1749212499
+    vehicle {
+      id: "3_4335"
+    }
+    occupancy_status: MANY_SEATS_AVAILABLE
+  }
+}
+entity { 
+id:"507" 
+  vehicle { 
+    trip { 
+      trip_id: "3_1_26410_851" 
+      start_time: "14:15:00" 
+      start_date: "20250606" 
+      schedule_relationship: SCHEDULED 
+      route_id: "1_242 " 
+       direction_id: 1
+    }
+    position {
+      latitude: 37.3657125 
+      longitude: -5.984164166666667
+    }
+    timestamp: 1749212467
+    vehicle {
+      id: "1_5033"
+    }
+    occupancy_status: MANY_SEATS_AVAILABLE
+  }
+}
+entity { 
+id:"1090" 
+  vehicle { 
+    trip { 
+      trip_id: "3_3_69263_1206" 
+      start_time: "14:20:00" 
+      start_date: "20250606" 
+      schedule_relationship: SCHEDULED 
+      route_id: "3_1077 " 
+       direction_id: 1
+    }
+    position {
+      latitude: 37.221875833333335 
+      longitude: -3.6985880555555557
+    }
+    timestamp: 1749212505
+    vehicle {
+      id: "3_4357"
+    }
+    occupancy_status: MANY_SEATS_AVAILABLE
+  }
+}
+entity { 
+id:"481" 
+  vehicle { 
+    trip { 
+      trip_id: "3_7_7418_261" 
+      start_time: "13:30:00" 
+      start_date: "20250606" 
+      schedule_relationship: SCHEDULED 
+      route_id: "7_21 " 
+       direction_id: 1
+    }
+    position {
+      latitude: 37.841955000000006 
+      longitude: -3.4807997222222222
+    }
+    timestamp: 1749212464
+    vehicle {
+      id: "7_5181"
+    }
+    occupancy_status: MANY_SEATS_AVAILABLE
+  }
+}
+entity { 
+id:"1083" 
+  vehicle { 
+    trip { 
+      trip_id: "3_3_79001_1229" 
+      start_time: "14:00:00" 
+      start_date: "20250606" 
+      schedule_relationship: SCHEDULED 
+      route_id: "3_1099 " 
+       direction_id: 0
+    }
+    position {
+      latitude: 37.20700194444445 
+      longitude: -3.61986
+    }
+    timestamp: 1749212511
+    vehicle {
+      id: "3_4342"
+    }
+    occupancy_status: MANY_SEATS_AVAILABLE
+  }
+}
+entity { 
+id:"1038" 
+  vehicle { 
+    trip { 
+      trip_id: "3_2_40658_1466" 
+      start_time: "14:01:00" 
+      start_date: "20250606" 
+      schedule_relationship: SCHEDULED 
+      route_id: "2_9 " 
+       direction_id: 1
+    }
+    position {
+      latitude: 36.52571666666667 
+      longitude: -6.219620833333334
+    }
+    timestamp: 1749212499
+    vehicle {
+      id: "2_3287"
+    }
+    occupancy_status: MANY_SEATS_AVAILABLE
+  }
+}
+entity { 
+id:"1094" 
+  vehicle { 
+    trip { 
+      trip_id: "3_7_7393_261" 
+      start_time: "14:15:00" 
+      start_date: "20250606" 
+      schedule_relationship: SCHEDULED 
+      route_id: "7_22 " 
+       direction_id: 1
+    }
+    position {
+      latitude: 37.778571388888885 
+      longitude: -3.7848525
+    }
+    timestamp: 1749212495
+    vehicle {
+      id: "7_5193"
+    }
+    occupancy_status: MANY_SEATS_AVAILABLE
+  }
+}
+entity { 
+id:"660" 
+  vehicle { 
+    trip { 
+      trip_id: "3_1_43563_982" 
+      start_time: "14:10:00" 
+      start_date: "20250606" 
+      schedule_relationship: SCHEDULED 
+      route_id: "1_303 " 
+       direction_id: 1
+    }
+    position {
+      latitude: 37.389385555555556 
+      longitude: -6.0157475
+    }
+    timestamp: 1749212460
+    vehicle {
+      id: "1_5213"
+    }
+    occupancy_status: MANY_SEATS_AVAILABLE
+  }
+}
+entity { 
+id:"530" 
+  vehicle { 
+    trip { 
+      trip_id: "3_2_40589_1436" 
+      start_time: "14:00:00" 
+      start_date: "20250606" 
+      schedule_relationship: SCHEDULED 
+      route_id: "2_50 " 
+       direction_id: 1
+    }
+    position {
+      latitude: 36.712630833333336 
+      longitude: -6.044995833333333
+    }
+    timestamp: 1749212466
+    vehicle {
+      id: "2_0845"
+    }
+    occupancy_status: MANY_SEATS_AVAILABLE
+  }
+}
+entity { 
+id:"513" 
+  vehicle { 
+    trip { 
+      trip_id: "3_1_51485_872" 
+      start_time: "14:30:00" 
+      start_date: "20250606" 
+      schedule_relationship: SCHEDULED 
+      route_id: "1_215 " 
+       direction_id: 1
+    }
+    position {
+      latitude: 37.38162666666667 
+      longitude: -5.966170833333334
+    }
+    timestamp: 1749212480
+    vehicle {
+      id: "1_5144"
+    }
+    occupancy_status: MANY_SEATS_AVAILABLE
+  }
+}
+entity { 
+id:"970" 
+  vehicle { 
+    trip { 
+      trip_id: "3_3_74302_1133" 
+      start_time: "14:00:00" 
+      start_date: "20250606" 
+      schedule_relationship: SCHEDULED 
+      route_id: "3_806 " 
+       direction_id: 1
+    }
+    position {
+      latitude: 37.21694305555556 
+      longitude: -3.5898594444444445
+    }
+    timestamp: 1749212666
+    vehicle {
+      id: "3_2384"
+    }
+    occupancy_status: MANY_SEATS_AVAILABLE
+  }
+}
+entity { 
+id:"1100" 
+  vehicle { 
+    trip { 
+      trip_id: "3_2_37550_1441" 
+      start_time: "14:10:00" 
+      start_date: "20250606" 
+      schedule_relationship: SCHEDULED 
+      route_id: "2_2 " 
+       direction_id: 0
+    }
+    position {
+      latitude: 36.516895 
+      longitude: -6.283048055555556
+    }
+    timestamp: 1749212507
+    vehicle {
+      id: "2_3292"
+    }
+    occupancy_status: MANY_SEATS_AVAILABLE
+  }
+}
+entity { 
+id:"515" 
+  vehicle { 
+    trip { 
+      trip_id: "3_4_59502_1623" 
+      start_time: "14:30:00" 
+      start_date: "20250606" 
+      schedule_relationship: SCHEDULED 
+      route_id: "4_191 " 
+       direction_id: 1
+    }
+    position {
+      latitude: 36.92354611111111 
+      longitude: -4.802401388888889
+    }
+    timestamp: 1749212771
+    vehicle {
+      id: "4_6307"
+    }
+    occupancy_status: MANY_SEATS_AVAILABLE
+  }
+}
+entity { 
+id:"516" 
+  vehicle { 
+    trip { 
+      trip_id: "3_3_80730_1255" 
+      start_time: "15:15:00" 
+      start_date: "20250606" 
+      schedule_relationship: SCHEDULED 
+      route_id: "3_1112 " 
+       direction_id: 1
+    }
+    position {
+      latitude: 37.18458305555555 
+      longitude: -3.778903333333333
+    }
+    timestamp: 1749212461
+    vehicle {
+      id: "3_4096"
+    }
+    occupancy_status: MANY_SEATS_AVAILABLE
+  }
+}
+entity { 
+id:"519" 
+  vehicle { 
+    trip { 
+      trip_id: "3_1_44949_894" 
+      start_time: "13:55:00" 
+      start_date: "20250606" 
+      schedule_relationship: SCHEDULED 
+      route_id: "1_219 " 
+       direction_id: 0
+    }
+    position {
+      latitude: 37.366125277777776 
+      longitude: -5.9652883333333335
+    }
+    timestamp: 1749212498
+    vehicle {
+      id: "1_5147"
+    }
+    occupancy_status: MANY_SEATS_AVAILABLE
+  }
+}
+entity { 
+id:"522" 
+  vehicle { 
+    trip { 
+      trip_id: "3_4_67873_1553" 
+      start_time: "12:45:00" 
+      start_date: "20250606" 
+      schedule_relationship: SCHEDULED 
+      route_id: "4_113 " 
+       direction_id: 1
+    }
+    position {
+      latitude: 36.71838916666667 
+      longitude: -4.409136388888889
+    }
+    timestamp: 1749212486
+    vehicle {
+      id: "4_4437"
+    }
+    occupancy_status: MANY_SEATS_AVAILABLE
+  }
+}
+entity { 
+id:"1074" 
+  vehicle { 
+    trip { 
+      trip_id: "3_3_78084_1225" 
+      start_time: "13:50:00" 
+      start_date: "20250606" 
+      schedule_relationship: SCHEDULED 
+      route_id: "3_875 " 
+       direction_id: 1
+    }
+    position {
+      latitude: 37.19352416666666 
+      longitude: -3.7184630555555556
+    }
+    timestamp: 1749212551
+    vehicle {
+      id: "3_1830"
+    }
+    occupancy_status: MANY_SEATS_AVAILABLE
+  }
+}
+entity { 
+id:"534" 
+  vehicle { 
+    trip { 
+      trip_id: "3_3_69702_1196" 
+      start_time: "14:15:00" 
+      start_date: "20250606" 
+      schedule_relationship: SCHEDULED 
+      route_id: "3_987 " 
+       direction_id: 1
+    }
+    position {
+      latitude: 37.15971472222222 
+      longitude: -3.5998058333333334
+    }
+    timestamp: 1749212481
+    vehicle {
+      id: "3_4227"
+    }
+    occupancy_status: MANY_SEATS_AVAILABLE
+  }
+}
+entity { 
+id:"576" 
+  vehicle { 
+    trip { 
+      trip_id: "3_4_67850_1553" 
+      start_time: "13:15:00" 
+      start_date: "20250606" 
+      schedule_relationship: SCHEDULED 
+      route_id: "4_113 " 
+       direction_id: 0
+    }
+    position {
+      latitude: 36.716030555555555 
+      longitude: -4.195166944444445
+    }
+    timestamp: 1749212469
+    vehicle {
+      id: "4_4389"
+    }
+    occupancy_status: MANY_SEATS_AVAILABLE
+  }
+}
+entity { 
+id:"551" 
+  vehicle { 
+    trip { 
+      trip_id: "3_8_9423_488" 
+      start_time: "13:30:00" 
+      start_date: "20250606" 
+      schedule_relationship: SCHEDULED 
+      route_id: "8_18 " 
+       direction_id: 0
+    }
+    position {
+      latitude: 37.80357222222222 
+      longitude: -5.1065875
+    }
+    timestamp: 1749212682
+    vehicle {
+      id: "8_2532"
+    }
+    occupancy_status: MANY_SEATS_AVAILABLE
+  }
+}
+entity { 
+id:"566" 
+  vehicle { 
+    trip { 
+      trip_id: "3_1_43773_878" 
+      start_time: "13:45:00" 
+      start_date: "20250606" 
+      schedule_relationship: SCHEDULED 
+      route_id: "1_425 " 
+       direction_id: 0
+    }
+    position {
+      latitude: 37.53576333333333 
+      longitude: -6.054344166666667
+    }
+    timestamp: 1749212751
+    vehicle {
+      id: "1_5055"
+    }
+    occupancy_status: MANY_SEATS_AVAILABLE
+  }
+}
+entity { 
+id:"546" 
+  vehicle { 
+    trip { 
+      trip_id: "3_1_42474_869" 
+      start_time: "14:30:00" 
+      start_date: "20250606" 
+      schedule_relationship: SCHEDULED 
+      route_id: "1_220 " 
+       direction_id: 1
+    }
+    position {
+      latitude: 37.377524722222226 
+      longitude: -5.979051388888889
+    }
+    timestamp: 1749212545
+    vehicle {
+      id: "1_5121"
+    }
+    occupancy_status: MANY_SEATS_AVAILABLE
+  }
+}
+entity { 
+id:"548" 
+  vehicle { 
+    trip { 
+      trip_id: "3_3_69639_1217" 
+      start_time: "14:20:00" 
+      start_date: "20250606" 
+      schedule_relationship: SCHEDULED 
+      route_id: "3_986 " 
+       direction_id: 0
+    }
+    position {
+      latitude: 37.18283777777778 
+      longitude: -3.6055625
+    }
+    timestamp: 1749212463
+    vehicle {
+      id: "3_4252"
+    }
+    occupancy_status: MANY_SEATS_AVAILABLE
+  }
+}
+entity { 
+id:"593" 
+  vehicle { 
+    trip { 
+      trip_id: "3_1_48620_985" 
+      start_time: "14:00:00" 
+      start_date: "20250606" 
+      schedule_relationship: SCHEDULED 
+      route_id: "1_287 " 
+       direction_id: 1
+    }
+    position {
+      latitude: 37.39798527777778 
+      longitude: -6.034727222222222
+    }
+    timestamp: 1749212469
+    vehicle {
+      id: "1_0772"
+    }
+    occupancy_status: MANY_SEATS_AVAILABLE
+  }
+}
+entity { 
+id:"575" 
+  vehicle { 
+    trip { 
+      trip_id: "3_3_70182_1223" 
+      start_time: "14:30:00" 
+      start_date: "20250606" 
+      schedule_relationship: SCHEDULED 
+      route_id: "3_991 " 
+       direction_id: 1
+    }
+    position {
+      latitude: 37.252316111111114 
+      longitude: -3.7540347222222223
+    }
+    timestamp: 1749212441
+    vehicle {
+      id: "3_4251"
+    }
+    occupancy_status: MANY_SEATS_AVAILABLE
+  }
+}
+entity { 
+id:"559" 
+  vehicle { 
+    trip { 
+      trip_id: "3_4_53819_1213" 
+      start_time: "14:30:00" 
+      start_date: "20250606" 
+      schedule_relationship: SCHEDULED 
+      route_id: "4_123 " 
+       direction_id: 0
+    }
+    position {
+      latitude: 36.82288638888889 
+      longitude: -4.706622222222222
+    }
+    timestamp: 1749212695
+    vehicle {
+      id: "4_6323"
+    }
+    occupancy_status: MANY_SEATS_AVAILABLE
+  }
+}
+entity { 
+id:"562" 
+  vehicle { 
+    trip { 
+      trip_id: "3_3_79847_1235" 
+      start_time: "13:45:00" 
+      start_date: "20250606" 
+      schedule_relationship: SCHEDULED 
+      route_id: "3_867 " 
+       direction_id: 0
+    }
+    position {
+      latitude: 37.20153277777778 
+      longitude: -3.7706775
+    }
+    timestamp: 1749212485
+    vehicle {
+      id: "3_4339"
+    }
+    occupancy_status: MANY_SEATS_AVAILABLE
+  }
+}
+entity { 
+id:"564" 
+  vehicle { 
+    trip { 
+      trip_id: "3_6_3840_37" 
+      start_time: "14:45:00" 
+      start_date: "20250606" 
+      schedule_relationship: SCHEDULED 
+      route_id: "6_49 " 
+       direction_id: 1
+    }
+    position {
+      latitude: 36.72689583333334 
+      longitude: -2.637910833333333
+    }
+    timestamp: 1749212488
+    vehicle {
+      id: "6_4048"
+    }
+    occupancy_status: MANY_SEATS_AVAILABLE
+  }
+}
+entity { 
+id:"592" 
+  vehicle { 
+    trip { 
+      trip_id: "3_3_75232_1216" 
+      start_time: "14:00:00" 
+      start_date: "20250606" 
+      schedule_relationship: SCHEDULED 
+      route_id: "3_1107 " 
+       direction_id: 1
+    }
+    position {
+      latitude: 37.16154833333333 
+      longitude: -3.5860083333333335
+    }
+    timestamp: 1749212610
+    vehicle {
+      id: "3_7021"
+    }
+    occupancy_status: MANY_SEATS_AVAILABLE
+  }
+}
+entity { 
+id:"581" 
+  vehicle { 
+    trip { 
+      trip_id: "3_4_67852_1553" 
+      start_time: "14:45:00" 
+      start_date: "20250606" 
+      schedule_relationship: SCHEDULED 
+      route_id: "4_113 " 
+       direction_id: 0
+    }
+    position {
+      latitude: 36.70416638888889 
+      longitude: -4.449085833333333
+    }
+    timestamp: 1749212477
+    vehicle {
+      id: "4_4466"
+    }
+    occupancy_status: MANY_SEATS_AVAILABLE
+  }
+}
+entity { 
+id:"605" 
+  vehicle { 
+    trip { 
+      trip_id: "3_1_45427_905" 
+      start_time: "14:20:00" 
+      start_date: "20250606" 
+      schedule_relationship: SCHEDULED 
+      route_id: "1_493 " 
+       direction_id: 1
+    }
+    position {
+      latitude: 37.39143111111111 
+      longitude: -6.0031558333333335
+    }
+    timestamp: 1749212483
+    vehicle {
+      id: "1_0849"
+    }
+    occupancy_status: MANY_SEATS_AVAILABLE
+  }
+}
+entity { 
+id:"629" 
+  vehicle { 
+    trip { 
+      trip_id: "3_3_78074_1225" 
+      start_time: "14:00:00" 
+      start_date: "20250606" 
+      schedule_relationship: SCHEDULED 
+      route_id: "3_875 " 
+       direction_id: 0
+    }
+    position {
+      latitude: 37.192610277777774 
+      longitude: -3.712998055555556
+    }
+    timestamp: 1749212537
+    vehicle {
+      id: "3_2750"
+    }
+    occupancy_status: MANY_SEATS_AVAILABLE
+  }
+}
+entity { 
+id:"741" 
+  vehicle { 
+    trip { 
+      trip_id: "3_1_42991_869" 
+      start_time: "14:25:00" 
+      start_date: "20250606" 
+      schedule_relationship: SCHEDULED 
+      route_id: "1_210 " 
+       direction_id: 1
+    }
+    position {
+      latitude: 37.39279944444444 
+      longitude: -6.004352222222222
+    }
+    timestamp: 1749212516
+    vehicle {
+      id: "1_5108"
+    }
+    occupancy_status: MANY_SEATS_AVAILABLE
+  }
+}
+entity { 
+id:"687" 
+  vehicle { 
+    trip { 
+      trip_id: "3_9_39818_97" 
+      start_time: "13:30:00" 
+      start_date: "20250606" 
+      schedule_relationship: SCHEDULED 
+      route_id: "9_48 " 
+       direction_id: 0
+    }
+    position {
+      latitude: 37.303258888888884 
+      longitude: -6.5971649999999995
+    }
+    timestamp: 1749212436
+    vehicle {
+      id: "9_0847"
+    }
+    occupancy_status: MANY_SEATS_AVAILABLE
+  }
+}
+entity { 
+id:"638" 
+  vehicle { 
+    trip { 
+      trip_id: "3_2_40630_1445" 
+      start_time: "14:00:00" 
+      start_date: "20250606" 
+      schedule_relationship: SCHEDULED 
+      route_id: "2_225 " 
+       direction_id: 1
+    }
+    position {
+      latitude: 36.51826805555555 
+      longitude: -6.283836944444444
+    }
+    timestamp: 1749212468
+    vehicle {
+      id: "2_0977"
+    }
+    occupancy_status: MANY_SEATS_AVAILABLE
+  }
+}
+entity { 
+id:"689" 
+  vehicle { 
+    trip { 
+      trip_id: "3_2_40939_1482" 
+      start_time: "14:15:00" 
+      start_date: "20250606" 
+      schedule_relationship: SCHEDULED 
+      route_id: "2_4 " 
+       direction_id: 1
+    }
+    position {
+      latitude: 36.42970777777778 
+      longitude: -6.144386111111111
+    }
+    timestamp: 1749212490
+    vehicle {
+      id: "2_3329"
+    }
+    occupancy_status: MANY_SEATS_AVAILABLE
+  }
+}
+entity { 
+id:"688" 
+  vehicle { 
+    trip { 
+      trip_id: "3_6_3390_20" 
+      start_time: "14:10:00" 
+      start_date: "20250606" 
+      schedule_relationship: SCHEDULED 
+      route_id: "6_1 " 
+       direction_id: 0
+    }
+    position {
+      latitude: 36.83749805555556 
+      longitude: -2.4557147222222224
+    }
+    timestamp: 1749212679
+    vehicle {
+      id: "6_1503"
+    }
+    occupancy_status: MANY_SEATS_AVAILABLE
+  }
+}
+entity { 
+id:"761" 
+  vehicle { 
+    trip { 
+      trip_id: "3_1_49721_1006" 
+      start_time: "14:00:00" 
+      start_date: "20250606" 
+      schedule_relationship: SCHEDULED 
+      route_id: "1_295 " 
+       direction_id: 1
+    }
+    position {
+      latitude: 37.38466416666667 
+      longitude: -6.064886944444444
+    }
+    timestamp: 1749212468
+    vehicle {
+      id: "1_0846"
+    }
+    occupancy_status: MANY_SEATS_AVAILABLE
+  }
+}
+entity { 
+id:"738" 
+  vehicle { 
+    trip { 
+      trip_id: "3_1_27324_685" 
+      start_time: "14:15:00" 
+      start_date: "20250606" 
+      schedule_relationship: SCHEDULED 
+      route_id: "1_501 " 
+       direction_id: 1
+    }
+    position {
+      latitude: 37.35947361111111 
+      longitude: -5.957093888888889
+    }
+    timestamp: 1749212495
+    vehicle {
+      id: "1_5127"
+    }
+    occupancy_status: MANY_SEATS_AVAILABLE
+  }
+}
+entity { 
+id:"821" 
+  vehicle { 
+    trip { 
+      trip_id: "3_4_71750_910" 
+      start_time: "14:30:00" 
+      start_date: "20250606" 
+      schedule_relationship: SCHEDULED 
+      route_id: "4_109 " 
+       direction_id: 1
+    }
+    position {
+      latitude: 36.76649777777778 
+      longitude: -4.300451944444444
+    }
+    timestamp: 1749212451
+    vehicle {
+      id: "4_4458"
+    }
+    occupancy_status: MANY_SEATS_AVAILABLE
+  }
+}
+entity { 
+id:"859" 
+  vehicle { 
+    trip { 
+      trip_id: "3_7_9841_262" 
+      start_time: "13:45:00" 
+      start_date: "20250606" 
+      schedule_relationship: SCHEDULED 
+      route_id: "7_60 " 
+       direction_id: 1
+    }
+    position {
+      latitude: 37.557855277777776 
+      longitude: -3.6328805555555554
+    }
+    timestamp: 1749212529
+    vehicle {
+      id: "7_5232"
+    }
+    occupancy_status: MANY_SEATS_AVAILABLE
+  }
+}
+entity { 
+id:"872" 
+  vehicle { 
+    trip { 
+      trip_id: "3_1_52038_982" 
+      start_time: "14:20:00" 
+      start_date: "20250606" 
+      schedule_relationship: SCHEDULED 
+      route_id: "1_324 " 
+       direction_id: 0
+    }
+    position {
+      latitude: 37.132558055555556 
+      longitude: -6.1672955555555555
+    }
+    timestamp: 1749212511
+    vehicle {
+      id: "1_5218"
+    }
+    occupancy_status: MANY_SEATS_AVAILABLE
+  }
+}
+entity { 
+id:"1109" 
+  vehicle { 
+    trip { 
+      trip_id: "3_9_39822_97" 
+      start_time: "13:30:00" 
+      start_date: "20250606" 
+      schedule_relationship: SCHEDULED 
+      route_id: "9_3 " 
+       direction_id: 0
+    }
+    position {
+      latitude: 37.23937527777778 
+      longitude: -7.2480263888888885
+    }
+    timestamp: 1749212488
+    vehicle {
+      id: "9_0925"
+    }
+    occupancy_status: MANY_SEATS_AVAILABLE
+  }
+}
+entity { 
+id:"989" 
+  vehicle { 
+    trip { 
+      trip_id: "3_9_39591_97" 
+      start_time: "14:30:00" 
+      start_date: "20250606" 
+      schedule_relationship: SCHEDULED 
+      route_id: "9_32 " 
+       direction_id: 0
+    }
+    position {
+      latitude: 37.25806111111111 
+      longitude: -6.9574575
+    }
+    timestamp: 1749212481
+    vehicle {
+      id: "9_0951"
+    }
+    occupancy_status: MANY_SEATS_AVAILABLE
+  }
+}
+entity { 
+id:"1122" 
+  vehicle { 
+    trip { 
+      trip_id: "3_1_51626_872" 
+      start_time: "14:05:00" 
+      start_date: "20250606" 
+      schedule_relationship: SCHEDULED 
+      route_id: "1_214 " 
+       direction_id: 0
+    }
+    position {
+      latitude: 37.34336722222223 
+      longitude: -5.85764611111111
+    }
+    timestamp: 1749212540
+    vehicle {
+      id: "1_5141"
+    }
+    occupancy_status: MANY_SEATS_AVAILABLE
+  }
+}
+entity { 
+id:"1113" 
+  vehicle { 
+    trip { 
+      trip_id: "3_2_40902_1482" 
+      start_time: "13:45:00" 
+      start_date: "20250606" 
+      schedule_relationship: SCHEDULED 
+      route_id: "2_4 " 
+       direction_id: 0
+    }
+    position {
+      latitude: 36.42990222222222 
+      longitude: -6.144697777777778
+    }
+    timestamp: 1749212436
+    vehicle {
+      id: "2_3353"
+    }
+    occupancy_status: MANY_SEATS_AVAILABLE
+  }
+}
+entity { 
+id:"1117" 
+  vehicle { 
+    trip { 
+      trip_id: "3_3_74255_1207" 
+      start_time: "14:00:00" 
+      start_date: "20250606" 
+      schedule_relationship: SCHEDULED 
+      route_id: "3_932 " 
+       direction_id: 0
+    }
+    position {
+      latitude: 37.14230611111111 
+      longitude: -3.569809722222222
+    }
+    timestamp: 1749212449
+    vehicle {
+      id: "3_7035"
+    }
+    occupancy_status: MANY_SEATS_AVAILABLE
+  }
+}
+entity { 
+id:"1118" 
+  vehicle { 
+    trip { 
+      trip_id: "3_9_39577_97" 
+      start_time: "13:00:00" 
+      start_date: "20250606" 
+      schedule_relationship: SCHEDULED 
+      route_id: "9_30 " 
+       direction_id: 0
+    }
+    position {
+      latitude: 37.67668583333333 
+      longitude: -7.273459444444445
+    }
+    timestamp: 1749212505
+    vehicle {
+      id: "9_0963"
+    }
+    occupancy_status: MANY_SEATS_AVAILABLE
+  }
+}
+entity { 
+id:"1105" 
+  vehicle { 
+    trip { 
+      trip_id: "3_1_51873_888" 
+      start_time: "14:20:00" 
+      start_date: "20250606" 
+      schedule_relationship: SCHEDULED 
+      route_id: "1_286 " 
+       direction_id: 0
+    }
+    position {
+      latitude: 37.386716666666665 
+      longitude: -6.080664444444444
+    }
+    timestamp: 1749212517
+    vehicle {
+      id: "1_0945"
+    }
+    occupancy_status: MANY_SEATS_AVAILABLE
+  }
+}
+entity { 
+id:"1125" 
+  vehicle { 
+    trip { 
+      trip_id: "3_1_42601_869" 
+      start_time: "14:00:00" 
+      start_date: "20250606" 
+      schedule_relationship: SCHEDULED 
+      route_id: "1_220 " 
+       direction_id: 0
+    }
+    position {
+      latitude: 37.43213305555555 
+      longitude: -5.835858611111111
+    }
+    timestamp: 1749212696
+    vehicle {
+      id: "1_5110"
+    }
+    occupancy_status: MANY_SEATS_AVAILABLE
+  }
+}

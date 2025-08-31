@@ -1,0 +1,29 @@
+{
+  "name": "gtfs",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "axios": "^1.9.0",
+    "compression": "^1.8.0",
+    "convert-csv-to-json": "^2.50.0",
+    "cors": "^2.8.5",
+    "csv-parse": "^5.6.0",
+    "express": "^4.21.2",
+    "express-sanitizer": "^1.0.6",
+    "http": "^0.0.1-security",
+    "http-errors": "^2.0.0",
+    "https": "^1.0.0",
+    "method-override": "^3.0.0",
+    "mongodb": "^6.13.0",
+    "node-stream-zip": "^1.15.0",
+    "path": "^0.12.7",
+    "socket.io-client": "^4.8.1"
+  }
+}

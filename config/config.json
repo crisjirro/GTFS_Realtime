@@ -1,0 +1,9 @@
+{
+	"server":		"localhost",
+	"porthttp": 	5000,
+	"porthttps": 	5002,
+	"socketUrl": 	"10.52.250.105",
+	"socketUrlPub": 	"10.229.198.146",
+	"socketPort":	5002,
+	"gtfsUrl":		"https://api.ctan.es/v1/datos/UNIFICADO/gtfs.zip"
+}
